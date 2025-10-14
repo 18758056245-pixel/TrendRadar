@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T17:52:17.737743+08:00",
-  "total_titles_processed": 320,
+  "generated_at": "2025-10-14T18:04:28.367721+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -48,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "特朗普马克龙26秒“掰手腕式握手”",
@@ -60,19 +61,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "特朗普扬言对华加关税后为何立即改口",
           "url": "https://www.toutiao.com/trending/7560995682748747302/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -82,8 +84,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
+        },
+        {
+          "title": "自扇耳光?特朗普关税战求和中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "特朗普抱怨时代周刊封面图史上最差",
@@ -92,17 +105,6 @@
           "ranks": [
             24,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
-        },
-        {
-          "title": "自扇耳光?特朗普关税战求和中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -133,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -144,8 +146,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         }
       ]
     },
@@ -161,8 +163,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         },
         {
           "title": "美股盘前中概股走低，阿里巴巴(BABA.N)下跌3.7%，拼多多(PDD.O)下跌2.4%，百度(BIDU.O)下跌3.6%。",
@@ -172,8 +174,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         }
       ]
     },
@@ -189,8 +191,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         }
       ]
     },
@@ -206,8 +208,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时04分]"
         }
       ]
     }
