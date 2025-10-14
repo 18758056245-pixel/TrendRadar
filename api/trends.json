@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T17:46:37.981345+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-10-14T17:52:17.737743+08:00",
+  "total_titles_processed": 320,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -48,19 +48,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "特朗普马克龙26秒“掰手腕式握手”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "特朗普扬言对华加关税后为何立即改口",
@@ -70,8 +71,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -81,30 +82,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "特朗普将卡尼误称为总统",
-          "url": "https://www.douyin.com/hot/2269224",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "特朗普抱怨时代周刊封面图史上最差",
           "url": "https://wallstreetcn.com/livenews/2987394",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -112,6 +103,17 @@
           "source": "贴吧",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普将卡尼误称为总统",
+          "url": "https://www.douyin.com/hot/2269224",
+          "source": "抖音",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -131,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -142,8 +144,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         }
       ]
     },
@@ -159,8 +161,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         },
         {
           "title": "美股盘前中概股走低，阿里巴巴(BABA.N)下跌3.7%，拼多多(PDD.O)下跌2.4%，百度(BIDU.O)下跌3.6%。",
@@ -170,8 +172,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         }
       ]
     },
@@ -187,8 +189,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         }
       ]
     },
@@ -204,8 +206,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时52分]"
         }
       ]
     }
