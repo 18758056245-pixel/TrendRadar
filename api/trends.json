@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T22:47:44.413536+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2025-10-14T23:50:29.790181+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -15,8 +15,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时46分 ~ 22时47分]"
+          "appearance_count": 8,
+          "time_info": "[17时46分 ~ 23时50分]"
+        },
+        {
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            4,
+            14,
+            15,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时46分 ~ 23时50分]"
         },
         {
           "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
@@ -30,22 +47,6 @@
           "time_info": "[17时46分 ~ 20时02分]"
         },
         {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3,
-            4,
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时46分 ~ 22时47分]"
-        },
-        {
           "title": "自扇耳光?特朗普关税战求和中国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
@@ -54,8 +55,21 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时46分 ~ 23时50分]"
+        },
+        {
+          "title": "特朗普C位合影喊话：大家笑起来",
+          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时46分 ~ 22时47分]"
+          "time_info": "[17时46分 ~ 23时50分]"
         },
         {
           "title": "特朗普：我对“两国方案”还没有表态",
@@ -69,27 +83,15 @@
           "time_info": "20时02分"
         },
         {
-          "title": "特朗普C位合影喊话：大家笑起来",
-          "url": "https://www.toutiao.com/trending/7560888494140182043/",
-          "source": "今日头条",
+          "title": "特朗普抱怨：这张照片实在太烂了(图)",
+          "url": "https://news.ifeng.com/c/8nRrXfFKai8",
+          "source": "凤凰网",
           "ranks": [
-            23,
-            26
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时46分 ~ 21时53分]"
-        },
-        {
-          "title": "美国众议长约翰逊：特朗普政府有权将其他资源调拨来作为军人工资开销。",
-          "url": "https://wallstreetcn.com/livenews/2987599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
+          "appearance_count": 5,
+          "time_info": "[19时03分 ~ 23时50分]"
         },
         {
           "title": "特朗普100%关税威胁是虚晃一枪吗",
@@ -104,17 +106,6 @@
           "time_info": "[20时02分 ~ 22时47分]"
         },
         {
-          "title": "特朗普抱怨：这张照片实在太烂了(图)",
-          "url": "https://news.ifeng.com/c/8nRrXfFKai8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 22时47分]"
-        },
-        {
           "title": "鲁比奥赞扬特朗普时却遭特朗普当场质疑，鲁比奥迅速改口，美媒嘲讽",
           "url": "https://wallstreetcn.com/livenews/2987492",
           "source": "华尔街见闻-快讯",
@@ -125,6 +116,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时03分 ~ 20时02分]"
+        },
+        {
+          "title": "美国众议长约翰逊：特朗普政府有权将其他资源调拨来作为军人工资开销。",
+          "url": "https://wallstreetcn.com/livenews/2987599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时50分]"
         },
         {
           "title": "特朗普扬言对华加关税后为何立即改口",
@@ -165,6 +168,19 @@
           "time_info": "[19时03分 ~ 22时47分]"
         },
         {
+          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时50分]"
+        },
+        {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
           "source": "澎湃新闻",
@@ -188,18 +204,6 @@
           "time_info": "[17时46分 ~ 18时04分]"
         },
         {
-          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时47分]"
-        },
-        {
           "title": "特朗普抱怨时代周刊封面图史上最差",
           "url": "https://wallstreetcn.com/livenews/2987394",
           "source": "华尔街见闻-快讯",
@@ -212,6 +216,17 @@
           "time_info": "[17时46分 ~ 17时52分]"
         },
         {
+          "title": "必和必拓CEO Mike Henry：特朗普政府的政策朝着矿业倾斜。 考虑重启美国铜矿地带的那些矿场。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2987610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "特朗普抱怨时代周刊封面图史上最差",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E6%97%B6%E4%BB%A3%E5%91%A8%E5%88%8A%E5%B0%81%E9%9D%A2%E5%9B%BE%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B7%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%258A%25B1%25E6%2580%25A8%25E6%2597%25B6%25E4%25BB%25A3%25E5%2591%25A8%25E5%2588%258A%25E5%25B0%2581%25E9%259D%25A2%25E5%259B%25BE%25E5%258F%25B2%25E4%25B8%258A%25E6%259C%2580%25E5%25B7%25AE%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D19%26flag%3D1%26pos%3D19%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26band_rank%3D19%26display_time%3D1760443253%26pre_seqid%3D1760443253831021405401",
           "source": "微博",
@@ -221,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "据英国金融时报：必和必拓(BHP.N)首席执行官表示，特朗普任内采取的举措促使公司加大了在美国的勘探力度，并推动了对亚利桑那州相关选项的重新评估。",
+          "url": "https://flash.jin10.com/detail/20251014231559742800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "特朗普将卡尼误称为总统",
@@ -240,7 +266,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -267,11 +293,23 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时46分 ~ 22时47分]"
+          "appearance_count": 8,
+          "time_info": "[17时46分 ~ 23时50分]"
+        },
+        {
+          "title": "美股三大股指低开，金银油下跌，数字货币重挫",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时50分]"
         },
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫，“所有资产都在跌”",
@@ -283,17 +321,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
-        },
-        {
-          "title": "美股三大股指低开，金银油下跌，数字货币重挫",
-          "url": "https://wallstreetcn.com/articles/3757142",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "美股开盘，道指跌0.42%，标普500指数跌0.95%，纳指跌1.37%。纳微半导体(NVTS.O)大涨23%，公司在为英伟达研发芯片方面取得进展。AMD(AMD.O)涨1.1%，其获甲骨文5万块芯片大单；英伟达(NVDA.O)跌2.08%。纳斯达克中国金龙指数跌2.5%。",
@@ -319,6 +346,19 @@
           "time_info": "[21时53分 ~ 22时47分]"
         },
         {
+          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2169365",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时50分]"
+        },
+        {
           "title": "美股盘前中概股走低，阿里巴巴(BABA.N)下跌3.7%，拼多多(PDD.O)下跌2.4%，百度(BIDU.O)下跌3.6%。",
           "url": "https://flash.jin10.com/detail/20251014171305290800",
           "source": "金十数据",
@@ -328,18 +368,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时46分 ~ 18时04分]"
-        },
-        {
-          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2169365",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时47分]"
         },
         {
           "title": "华尔街警示美股逢低买家：诱惑背后 或暗藏更多波澜",
@@ -392,7 +420,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -436,7 +464,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -476,8 +504,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时46分 ~ 22时47分]"
+          "appearance_count": 8,
+          "time_info": "[17时46分 ~ 23时50分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -533,6 +561,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "金价这么高 到底谁在买",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时03分 ~ 23时50分]"
+        },
+        {
           "title": "金价银价跳水",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D2%26realpos%3D21%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26filter_type%3Drealtimehot%26pos%3D20%26lcate%3D5001%26band_rank%3D21%26display_time%3D1760435150%26pre_seqid%3D1760435150270016952645",
           "source": "微博",
@@ -541,20 +582,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时46分 ~ 22时47分]"
-        },
-        {
-          "title": "金价这么高 到底谁在买",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 22时47分]"
+          "appearance_count": 8,
+          "time_info": "[17时46分 ~ 23时50分]"
         },
         {
           "title": "业内：黄金价格仍然有上涨冲动",
@@ -573,22 +602,52 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D16%26dgr%3D0%26cate%3D5001%26flag%3D1%26pos%3D15%26stream_entry_id%3D31%26realpos%3D16%26display_time%3D1760453188%26pre_seqid%3D17604531886800242507108",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时50分]"
         },
         {
           "title": "金价飙升带火洗沙盘",
           "url": "https://www.toutiao.com/trending/7561063810480475711/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌与世界银行构建合作伙伴关系。 双方将围绕新兴市场数字基础设施展开合作。",
+          "url": "https://wallstreetcn.com/livenews/2987586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
+          "url": "https://wallstreetcn.com/livenews/2987601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "23时50分"
         }
       ]
     },
@@ -614,24 +673,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌与世界银行构建合作伙伴关系。 双方将围绕新兴市场数字基础设施展开合作。",
-          "url": "https://wallstreetcn.com/livenews/2987586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         }
@@ -682,7 +724,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         }
