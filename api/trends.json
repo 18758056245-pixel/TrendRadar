@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T06:06:07.800821+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2025-10-16T07:31:49.538553+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时59分 ~ 06时06分]"
+          "appearance_count": 11,
+          "time_info": "[02时59分 ~ 07时31分]"
         },
         {
           "title": "特朗普威胁更换2028年奥运举办地",
@@ -50,11 +50,23 @@
           "ranks": [
             24,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时59分 ~ 06时06分]"
+          "appearance_count": 11,
+          "time_info": "[02时59分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时03分 ~ 07时31分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -70,17 +82,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时37分 ~ 06时06分]"
-        },
-        {
-          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
-          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时03分 ~ 06时06分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -138,6 +139,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
+          "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
           "url": "https://flash.jin10.com/detail/20251016043129250800",
           "source": "金十数据",
@@ -147,17 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        },
-        {
-          "title": "特朗普称其可能出席最高法院关税案辩论",
-          "url": "https://flash.jin10.com/detail/20251016055644949800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
         },
         {
           "title": "美国总统特朗普：如果没有关税，我们就没有国家安全。",
@@ -180,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "特朗普称泽连斯基将在访美期间阐述对俄“进攻”理由",
+          "url": "https://flash.jin10.com/detail/20251016063554472800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
@@ -219,6 +231,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时38分]"
+        },
+        {
+          "title": "特朗普称其可能出席最高法院关税案辩论",
+          "url": "https://flash.jin10.com/detail/20251016055644949800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时31分]"
         },
         {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
@@ -304,6 +328,30 @@
           "time_info": "[04时38分 ~ 05时04分]"
         },
         {
+          "title": "美国运输部：特朗普政府因卡车司机英语水平规定扣留加州的4000万美元资金。",
+          "url": "https://flash.jin10.com/detail/20251016052515297800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时31分]"
+        },
+        {
+          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
+          "url": "https://flash.jin10.com/detail/20251016052451289800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时31分]"
+        },
+        {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
           "url": "https://wallstreetcn.com/livenews/2988341",
           "source": "华尔街见闻-快讯",
@@ -344,7 +392,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -426,24 +474,13 @@
           "time_info": "05时04分"
         },
         {
-          "title": "美国运输部：特朗普政府因卡车司机英语水平规定扣留加州的4000万美元资金。",
-          "url": "https://flash.jin10.com/detail/20251016052515297800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
           "title": "特朗普威胁要对西班牙加关税，欧盟：将做出适当回应",
           "url": "https://wallstreetcn.com/livenews/2988423",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -459,24 +496,13 @@
           "time_info": "05时04分"
         },
         {
-          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
-          "url": "https://flash.jin10.com/detail/20251016052451289800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
           "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
           "url": "https://wallstreetcn.com/livenews/2988422",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -575,7 +601,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -589,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "阿根廷总统米莱：在美国白宫与特朗普的磋商侧重于贸易问题。 总统特朗普关于在阿根廷中期选举中有条件地支持我的说法并不正确。",
+          "url": "https://wallstreetcn.com/livenews/2988448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国白宫：特朗普将延长联邦雇员招聘冻结期",
@@ -605,7 +642,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -627,9 +664,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "贸易消息引发市场剧烈波动，美股冲高回落后收涨，黄金再创新高",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
+          "url": "https://www.cls.cn/detail/2170808",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -695,7 +754,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -718,8 +777,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时37分 ~ 06时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时37分 ~ 07时31分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -728,11 +787,12 @@
           "ranks": [
             23,
             25,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时37分 ~ 06时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时37分 ~ 07时31分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -759,6 +819,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时06分]"
+        },
+        {
+          "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
+          "url": "https://wallstreetcn.com/livenews/2988450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
@@ -820,7 +891,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
@@ -863,6 +934,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "刚升职就跳槽！报道：苹果负责类ChatGPT业务的AI研究主管Ke Yang将跳槽至Meta",
+          "url": "https://wallstreetcn.com/livenews/2988459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
