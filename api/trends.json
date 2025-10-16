@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T15:33:19.541969+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-10-16T16:02:43.701558+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -173,6 +173,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "特朗普称泽连斯基将阐述进攻俄理由",
+          "url": "https://www.toutiao.com/trending/7561700543823924745/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "美国总统特朗普：如果没有关税，我们就没有国家安全。",
           "url": "https://flash.jin10.com/detail/20251016043033249800",
           "source": "金十数据",
@@ -226,6 +237,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 16时02分]"
         },
         {
           "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
@@ -313,18 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时06分]"
-        },
-        {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 15时33分]"
         },
         {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
@@ -477,6 +488,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "据塔斯社：俄罗斯副总理诺瓦克就特朗普涉印度言论回应称，将继续与合作伙伴保持协作。",
+          "url": "https://flash.jin10.com/detail/20251016154532607800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "特朗普：哈马斯正在挖掘，他们发现了很多尸体。",
           "url": "https://flash.jin10.com/detail/20251016042311229800",
           "source": "金十数据",
@@ -576,6 +598,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "【中国购买俄油问题是中美贸易谈判一部分？外交部：坚决反对美方动辄拿中方说事】法新社记者提问，美国总统特朗普昨天表示，他已收到印度总理莫迪的保证，印度将停止从俄罗斯购买石油。特朗普在讲话中补充说，现在是时候让中国也采取同样的行动了。请问，中国购买俄罗斯石油是否属于正在进行的中美贸易谈判的一部分？中方对此持何立场？ 林剑表示，中方已多次就该问题表明立场，中国同包括俄罗斯在内的世界各国开展正常的经贸能源合作，正当合法。美方的做法是典型的单边霸凌和经济胁迫，严重破坏国际经贸规则，威胁全球产业链供应链的安全稳定。 林剑强调，中方在乌克兰危机问题上，一贯秉持客观公正立场，光明磊落，有目共睹。“我们坚决反对美方动辄拿中方说事，坚决反对对中方滥施非法单边制裁和长臂管辖。如果中方的正当权益受到损害，中方必将坚决反制，坚定维护自身的主权发展和安全利益。”（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/2988797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "特朗普：乌克兰希望在与俄罗斯的冲突中采取攻势。",
           "url": "https://flash.jin10.com/detail/20251016041408778800",
           "source": "金十数据",
@@ -648,7 +681,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -725,7 +758,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -744,7 +777,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -810,8 +843,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 16时02分]"
         },
         {
           "title": "金店老板：金价跌起来像泄洪",
@@ -821,8 +854,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时16分 ~ 16时02分]"
+        },
+        {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 16时02分]"
         },
         {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
@@ -847,19 +893,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 12时03分]"
-        },
-        {
-          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
-          "url": "https://www.cls.cn/detail/2171004",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 15时33分]"
         },
         {
           "title": "下周金价会重演2015年行情吗",
@@ -896,6 +929,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "金十图示：2025年10月16日（周四）上海金午盘价为967.46元/克，较国际金价(969.66元/克)，低2.2元/克",
+          "url": "https://flash.jin10.com/detail/20251016152708628800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
           "url": "https://wallstreetcn.com/livenews/2988450",
           "source": "华尔街见闻-快讯",
@@ -913,9 +957,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "瑞银：预计实际利率下降（甚至可能进入负值区间）将进一步提升黄金的投资吸引力，推动金价向上行目标位4700美元/盎司靠拢。",
+          "url": "https://flash.jin10.com/detail/20251016152438386800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
@@ -1111,11 +1166,12 @@
           "ranks": [
             8,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 16时02分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1275,9 +1331,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时02分]"
         }
       ]
     }
