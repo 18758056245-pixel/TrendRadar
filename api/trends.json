@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T14:51:56.403667+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2025-10-17T15:31:13.659087+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 83,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
         },
         {
           "title": "普京三板斧，轻松搞定特朗普",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
         },
         {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时03分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[07时03分 ~ 15时31分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -88,6 +88,68 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时03分]"
+        },
+        {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时31分]"
+        },
+        {
+          "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
+          "url": "https://www.cls.cn/detail/2172120",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
+        },
+        {
+          "title": "博尔顿遭起诉，特朗普：他是个坏人",
+          "url": "https://news.ifeng.com/c/8nWGFkRLtLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
+        },
+        {
+          "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
+          "url": "https://wallstreetcn.com/articles/3757333",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
+        },
+        {
+          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
         },
         {
           "title": "普京正告特朗普",
@@ -110,6 +172,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 04时03分]"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯总统普京在与美国总统特朗普通话后召开了安全会议。",
+          "url": "https://flash.jin10.com/detail/20251017151720760800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "俄罗斯国家电视台记者：克里姆林宫确认总统普京与美国总统特朗普正在通电话。",
@@ -170,32 +243,6 @@
           "time_info": "01时37分"
         },
         {
-          "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
-          "url": "https://www.cls.cn/detail/2172120",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
-        },
-        {
-          "title": "博尔顿遭起诉，特朗普：他是个坏人",
-          "url": "https://news.ifeng.com/c/8nWGFkRLtLt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
-        },
-        {
           "title": "巴西外长：卢拉与特朗普的会晤可能于11月举行",
           "url": "https://flash.jin10.com/detail/20251017053117307800",
           "source": "金十数据",
@@ -205,41 +252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
-          "url": "https://wallstreetcn.com/articles/3757333",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
-        },
-        {
-          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
         },
         {
           "title": "印度回应特朗普称该国承诺停购俄油",
@@ -354,6 +366,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时03分]"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时31分]"
         },
         {
           "title": "普京为何在此时致电特朗普",
@@ -579,6 +602,17 @@
           "time_info": "[02时53分 ~ 03时02分]"
         },
         {
+          "title": "你如何看待特朗普建凯旋门",
+          "url": "https://www.toutiao.com/trending/7561714764305907758/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，他将在周五与乌克兰总统泽连斯基会面时，考虑普京所说的话。",
           "url": "https://flash.jin10.com/detail/20251017021332869800",
           "source": "金十数据",
@@ -714,6 +748,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "诺和诺德欧股股价下跌5%，此前特朗普称减肥药物价格将下调。",
+          "url": "https://flash.jin10.com/detail/20251017151140981800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "美国总统特朗普：与普京对话正在进行中，而且是一场漫长的对话，我将在会议结束时汇报内容，普京也将如此。",
           "url": "https://flash.jin10.com/detail/20251016232253633800",
           "source": "金十数据",
@@ -758,17 +803,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行通话。",
           "url": "https://flash.jin10.com/detail/20251017032145795800",
           "source": "金十数据",
@@ -778,6 +812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "德国防务股下挫，莱茵金属、亨索尔特、伦克跌幅介于3%-5.7%，消息面上特朗普与普京将举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251017150729396800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "美国多个监管部门撤销气候相关融资风险标准。 美联储称，贷款机构应该对一系列因素具有韧性。 10月16日稍早，该国总统特朗普宣称，美国不会从任何方式上遵守全球碳税。",
@@ -926,7 +971,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -938,8 +983,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时03分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[07时03分 ~ 15时31分]"
         },
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -1092,6 +1137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌1%，标普500指数期货跌0.85%，道指期货跌0.61%。",
+          "url": "https://wallstreetcn.com/livenews/2989511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -1107,8 +1163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
         },
         {
           "title": "金价一夜暴涨有投资者彻夜难眠",
@@ -1116,11 +1172,12 @@
           "source": "微博",
           "ranks": [
             8,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时31分]"
         },
         {
           "title": "金十整理：金价一度冲高至4380美元，对比历史暴涨纪录，黄金本轮牛市还能走多远？",
@@ -1249,8 +1306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1273,8 +1330,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
         },
         {
           "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
@@ -1307,7 +1364,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -1315,8 +1372,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "新西兰外长宣布恢复对伊朗的制裁",
+          "url": "https://flash.jin10.com/detail/20251017151505959800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
         {
           "title": "伊朗最高国家安全委员会秘书访俄并会见俄总统 磋商双边关系",
           "url": "https://flash.jin10.com/detail/20251017010225561800",
@@ -1364,8 +1432,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时31分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
