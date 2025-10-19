@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T15:28:14.819324+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2025-10-19T16:02:23.598872+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -58,11 +58,46 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时37分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普三戏泽连斯基",
+          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 16时02分]"
+        },
+        {
+          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
+          "url": "https://v.ifeng.com/c/8nZizwGdefr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 16时02分]"
+        },
+        {
+          "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8nZRSwQk7HS",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时37分 ~ 16时02分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -96,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 15时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -128,17 +163,6 @@
           "time_info": "[00时44分 ~ 07时03分]"
         },
         {
-          "title": "特朗普三戏泽连斯基",
-          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 15时28分]"
-        },
-        {
           "title": "特朗普对华服软,关税讹诈玩不转",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
           "source": "贴吧",
@@ -148,19 +172,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 15时28分]"
-        },
-        {
-          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
-          "url": "https://v.ifeng.com/c/8nZizwGdefr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 15时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -193,18 +206,6 @@
           "time_info": "[00时44分 ~ 06时04分]"
         },
         {
-          "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8nZRSwQk7HS",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 15时28分]"
-        },
-        {
           "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
           "url": "https://wallstreetcn.com/livenews/2990101",
           "source": "华尔街见闻-快讯",
@@ -214,11 +215,26 @@
             14,
             15,
             18,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时03分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[05时03分 ~ 16时02分]"
+        },
+        {
+          "title": "美国多地爆发反特朗普集会",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D28%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D29%26flag%3D1%26stream_entry_id%3D31%26realpos%3D28%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E7%2588%2586%25E5%258F%2591%25E5%258F%258D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%259B%2586%25E4%25BC%259A%2523%26dgr%3D0%26display_time%3D1760851685%26pre_seqid%3D17608516850030273292772",
+          "source": "微博",
+          "ranks": [
+            28,
+            27,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时36分 ~ 16时02分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
@@ -230,6 +246,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 07时03分]"
+        },
+        {
+          "title": "全美700万人上街抗议特朗普",
+          "url": "https://www.douyin.com/hot/2274982",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时36分 ~ 16时02分]"
+        },
+        {
+          "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
+          "url": "https://news.ifeng.com/c/8nZlMrsz6GV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时36分 ~ 16时02分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
@@ -259,17 +298,16 @@
           "time_info": "[12时41分 ~ 15时28分]"
         },
         {
-          "title": "美国多地爆发反特朗普集会",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D28%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D29%26flag%3D1%26stream_entry_id%3D31%26realpos%3D28%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E7%2588%2586%25E5%258F%2591%25E5%258F%258D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%259B%2586%25E4%25BC%259A%2523%26dgr%3D0%26display_time%3D1760851685%26pre_seqid%3D17608516850030273292772",
-          "source": "微博",
+          "title": "特朗普团队曾商议亚洲行会晤金正恩",
+          "url": "https://www.toutiao.com/trending/7562161213384248874/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            27,
-            2
+            23,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 16时02分]"
         },
         {
           "title": "特朗普：美军摧毁“运毒潜艇” 两名幸存者被遣返",
@@ -287,29 +325,6 @@
           "time_info": "[11时37分 ~ 15时28分]"
         },
         {
-          "title": "全美700万人上街抗议特朗普",
-          "url": "https://www.douyin.com/hot/2274982",
-          "source": "抖音",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 15时28分]"
-        },
-        {
-          "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
-          "url": "https://news.ifeng.com/c/8nZlMrsz6GV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 15时28分]"
-        },
-        {
           "title": "特朗普发AI视频挑衅抗议者",
           "url": "https://flash.jin10.com/detail/20251019112407399800",
           "source": "金十数据",
@@ -317,11 +332,12 @@
             5,
             11,
             14,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 16时02分]"
         },
         {
           "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
@@ -330,11 +346,12 @@
           "ranks": [
             4,
             7,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 16时02分]"
         },
         {
           "title": "特朗普称美军摧毁一大型潜艇",
@@ -360,6 +377,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时37分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普为何对华释放缓和信号",
+          "url": "https://www.toutiao.com/trending/7562789134373228078/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 16时02分]"
         },
         {
           "title": "美媒：普京在与特朗普的通话中“要求乌克兰交出关键领土”",
@@ -414,28 +443,6 @@
           "time_info": "[05时03分 ~ 06时04分]"
         },
         {
-          "title": "特朗普为何对华释放缓和信号",
-          "url": "https://www.toutiao.com/trending/7562789134373228078/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普团队曾商议亚洲行会晤金正恩",
-          "url": "https://www.toutiao.com/trending/7562161213384248874/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
-        },
-        {
           "title": "曝美乌总统会晤特朗普数次语气强硬",
           "url": "https://www.toutiao.com/trending/7562354973208707126/",
           "source": "今日头条",
@@ -445,6 +452,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普口中的美军行动有多离谱",
+          "url": "https://www.toutiao.com/trending/7562814748509605430/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
         },
         {
           "title": "韩4大集团CEO同赴特朗普“鸿门宴”",
@@ -473,8 +491,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 15时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -577,11 +595,12 @@
             17,
             18,
             21,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时04分 ~ 15时28分]"
+          "appearance_count": 11,
+          "time_info": "[03时04分 ~ 16时02分]"
         },
         {
           "title": "伊朗副外长：协议规定的期限和施加的限制到期后，伊朗将摆脱安理会实施的制裁。",
