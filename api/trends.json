@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T12:42:24.823688+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2025-10-21T13:02:26.710122+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 12时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 13时02分]"
         },
         {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
@@ -151,8 +151,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普大规模拆除白宫建筑",
+          "url": "https://www.toutiao.com/trending/7562786425306382375/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
+          "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
+          "url": "https://news.ifeng.com/c/8nc5Dzj6yua",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
         },
         {
           "title": "特朗普称顿巴斯78%地区已被俄控制",
@@ -167,40 +202,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时48分 ~ 05时03分]"
-        },
-        {
-          "title": "特朗普大规模拆除白宫建筑",
-          "url": "https://www.toutiao.com/trending/7562786425306382375/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
-        },
-        {
-          "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
-          "url": "https://news.ifeng.com/c/8nc5Dzj6yua",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
-          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
         },
         {
           "title": "特朗普计划明年初访华",
@@ -316,6 +317,56 @@
           "time_info": "[00时48分 ~ 01时34分]"
         },
         {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.toutiao.com/trending/7563455829395902002/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
+          "title": "泽连斯基和特朗普对骂隐藏哪些信息",
+          "url": "https://www.toutiao.com/trending/7563487873530351143/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
           "title": "美国总统特朗普：正努力达成（俄乌）协议。",
           "url": "https://flash.jin10.com/detail/20251021001233217800",
           "source": "金十数据",
@@ -338,18 +389,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时06分 ~ 05时03分]"
-        },
-        {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.toutiao.com/trending/7563455829395902002/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
         },
         {
           "title": "美国总统特朗普：与普京讨论了袭击平民问题，要求停止袭击平民。",
@@ -388,39 +427,39 @@
           "time_info": "[04时06分 ~ 05时03分]"
         },
         {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
+          "title": "特朗普与普京举行第二次峰会的前景可能受阻",
+          "url": "https://flash.jin10.com/detail/20251021120742678800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            14
+            14,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 13时02分]"
         },
         {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
+          "title": "特朗普与普京举行会晤的希望可能会搁浅。",
+          "url": "https://flash.jin10.com/detail/20251021120139588800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            19
+            16,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 13时02分]"
         },
         {
-          "title": "泽连斯基和特朗普对骂隐藏哪些信息",
-          "url": "https://www.toutiao.com/trending/7563487873530351143/",
-          "source": "今日头条",
+          "title": "俄乌双方会不会按照特朗普的提议「冻结前线」？",
+          "url": "https://www.zhihu.com/question/1963059596064166358",
+          "source": "知乎",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 13时02分]"
         },
         {
           "title": "阿根廷债券价格回吐涨幅，与特朗普政府的（货币）互换协议没能（持久地）打动投资者。",
@@ -501,15 +540,15 @@
           "time_info": "07时30分"
         },
         {
-          "title": "特朗普与普京举行第二次峰会的前景可能受阻",
-          "url": "https://flash.jin10.com/detail/20251021120742678800",
-          "source": "金十数据",
+          "title": "特朗普大规模拆除白宫建筑",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "13时02分"
         },
         {
           "title": "美国总统特朗普：正采取多项措施以维持停火。",
@@ -532,28 +571,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "特朗普与普京举行会晤的希望可能会搁浅。",
-          "url": "https://flash.jin10.com/detail/20251021120139588800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "俄乌双方会不会按照特朗普的提议「冻结前线」？",
-          "url": "https://www.zhihu.com/question/1963059596064166358",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "美国总统特朗普：乌克兰仍有可能获胜。一切皆有可能。",
@@ -617,7 +634,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -715,8 +732,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 13时02分]"
         },
         {
           "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
@@ -840,8 +857,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 12时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 13时02分]"
         },
         {
           "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
@@ -852,8 +869,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
@@ -873,7 +890,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1007,6 +1024,18 @@
           "time_info": "[00时48分 ~ 11时19分]"
         },
         {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
           "url": "https://wallstreetcn.com/articles/3757530",
           "source": "华尔街见闻",
@@ -1015,8 +1044,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -1029,17 +1058,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 11时19分]"
-        },
-        {
-          "title": "DeepSeek新模型深度解读",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -1118,8 +1136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 13时02分]"
         },
         {
           "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",
@@ -1160,18 +1178,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
           "url": "https://wallstreetcn.com/livenews/2991014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时02分]"
         },
         {
           "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
@@ -1182,8 +1201,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时02分]"
+        },
+        {
+          "title": "日立与OpenAI建立战略合作伙伴关系",
+          "url": "https://flash.jin10.com/detail/20251021123730273800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
