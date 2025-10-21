@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-21T22:39:01.026919+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2025-10-21T23:40:13.828637+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 100,
       "titles": [
+        {
+          "title": "特朗普称将于明年初访华，外交部回应",
+          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时51分 ~ 23时40分]"
+        },
         {
           "title": "特朗普对中国列出三大问题，中方表态",
           "url": "https://news.ifeng.com/c/8nbema1wupK",
@@ -17,6 +28,31 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普称将于明年初访问中国 外交部回应",
+          "url": "https://www.cls.cn/detail/2175678",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时51分 ~ 23时40分]"
+        },
+        {
+          "title": "特朗普又改口：从未说过乌克兰会赢",
+          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时51分 ~ 23时40分]"
         },
         {
           "title": "曝特朗普与泽连斯基会晤多次对骂",
@@ -39,19 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时53分 ~ 22时39分]"
-        },
-        {
-          "title": "特朗普称将于明年初访华，外交部回应",
-          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 22时39分]"
+          "appearance_count": 14,
+          "time_info": "[14时53分 ~ 23时40分]"
         },
         {
           "title": "外交部回应特朗普称将于明年访华",
@@ -59,36 +84,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 22时39分]"
-        },
-        {
-          "title": "特朗普称将于明年初访问中国 外交部回应",
-          "url": "https://www.cls.cn/detail/2175678",
-          "source": "财联社热门",
-          "ranks": [
-            4,
             2,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 22时39分]"
-        },
-        {
-          "title": "特朗普又改口：从未说过乌克兰会赢",
-          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 22时39分]"
+          "appearance_count": 11,
+          "time_info": "[16时51分 ~ 23时40分]"
         },
         {
           "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
@@ -166,11 +167,12 @@
             9,
             14,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时48分 ~ 22时39分]"
+          "appearance_count": 27,
+          "time_info": "[00时48分 ~ 23时40分]"
         },
         {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
@@ -229,8 +231,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时19分 ~ 22时39分]"
+          "appearance_count": 17,
+          "time_info": "[11时19分 ~ 23时40分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -429,6 +431,18 @@
           "time_info": "[00时48分 ~ 03时05分]"
         },
         {
+          "title": "评论员：泽连斯基再度被特朗普侮辱",
+          "url": "https://www.toutiao.com/trending/7563610173114158601/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时49分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普政府：澳洲养老基金对美投资未来十年将增约1万亿美元",
           "url": "https://wallstreetcn.com/livenews/2990790",
           "source": "华尔街见闻-快讯",
@@ -542,6 +556,18 @@
           "time_info": "[16时51分 ~ 18时03分]"
         },
         {
+          "title": "特朗普：从未说过乌克兰会赢",
+          "url": "https://www.toutiao.com/trending/7562774270133927999/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时38分 ~ 23时40分]"
+        },
+        {
           "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
           "url": "https://news.ifeng.com/c/8nd0y77vH3q",
           "source": "凤凰网",
@@ -576,17 +602,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 13时02分]"
-        },
-        {
-          "title": "评论员：泽连斯基再度被特朗普侮辱",
-          "url": "https://www.toutiao.com/trending/7563610173114158601/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 22时39分]"
         },
         {
           "title": "特朗普为何放低身段寻求与普京对话",
@@ -707,17 +722,6 @@
           "time_info": "[19时27分 ~ 19时28分]"
         },
         {
-          "title": "特朗普：从未说过乌克兰会赢",
-          "url": "https://www.toutiao.com/trending/7562774270133927999/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
-        },
-        {
           "title": "阿根廷债券价格回吐涨幅，与特朗普政府的（货币）互换协议没能（持久地）打动投资者。",
           "url": "https://wallstreetcn.com/livenews/2990750",
           "source": "华尔街见闻-快讯",
@@ -742,6 +746,17 @@
           "time_info": "[16时51分 ~ 17时04分]"
         },
         {
+          "title": "特朗普要派兵旧金山 加州州长回怼",
+          "url": "https://www.toutiao.com/trending/7562808250748420106/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普中断会议斥责摄影师",
           "url": "https://www.toutiao.com/trending/7563605955687661631/",
           "source": "今日头条",
@@ -751,6 +766,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
+          "title": "为何说特朗普根本不了解印度",
+          "url": "https://www.toutiao.com/trending/7563548879044480531/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
+          "title": "美国副总统万斯：美国总统特朗普希望与伊朗人保持良好关系。",
+          "url": "https://flash.jin10.com/detail/20251021233352461800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "克里姆林宫：（就普京-特朗普峰会）无人提及任何日期。",
@@ -918,6 +955,17 @@
           "time_info": "21时49分"
         },
         {
+          "title": "特朗普特使库什纳：目前正在考虑在现由以色列控制的地区启动重建工作。",
+          "url": "https://flash.jin10.com/detail/20251021232751597800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国总统特朗普：但我不认为他们（即乌克兰）会赢。",
           "url": "https://flash.jin10.com/detail/20251021000134822800",
           "source": "金十数据",
@@ -927,6 +975,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "特朗普特使库什纳：没有任何重建资金将用于哈马斯控制的地区。",
+          "url": "https://flash.jin10.com/detail/20251021232641306800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普：乌克兰仍有可能获胜。一切皆有可能。",
@@ -979,7 +1038,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1083,13 +1142,24 @@
           "time_info": "00时48分"
         },
         {
+          "title": "美国副总统万斯：作为特朗普加沙计划的一部分，以色列必须就哪些部队将在以色列境内部署达成一致。",
+          "url": "https://flash.jin10.com/detail/20251021232124226800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "诺和诺德(NVO.N)基金会主席：与特朗普政府的谈判正在进行中，涉及他们对美国价格的要求。",
           "url": "https://flash.jin10.com/detail/20251021220159619800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1103,12 +1173,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普特使库什纳：以色列与联合国在加沙人道主义援助问题上保持着密切协调。",
+          "url": "https://flash.jin10.com/detail/20251021231935527800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -1148,6 +1229,17 @@
           "time_info": "[21时49分 ~ 22时39分]"
         },
         {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
           "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
           "url": "https://wallstreetcn.com/articles/3757528",
           "source": "华尔街见闻",
@@ -1156,8 +1248,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 22时39分]"
+          "appearance_count": 7,
+          "time_info": "[19时27分 ~ 23时40分]"
         },
         {
           "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
@@ -1303,6 +1395,17 @@
           "time_info": "19时28分"
         },
         {
+          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
+          "url": "https://wallstreetcn.com/livenews/2991320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/2991275",
           "source": "华尔街见闻-快讯",
@@ -1342,7 +1445,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1416,7 +1519,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -1431,6 +1534,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时48分 ~ 15时03分]"
+        },
+        {
+          "title": "国际金价突然大跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时49分 ~ 23时40分]"
         },
         {
           "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
@@ -1461,26 +1576,28 @@
           "time_info": "[14时53分 ~ 19时28分]"
         },
         {
-          "title": "国际金价突然大跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 22时39分]"
-        },
-        {
           "title": "黄金价格坐过山车 后续怎么走",
           "url": "https://www.toutiao.com/trending/7563613729208667702/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 4,
+          "time_info": "[22时38分 ~ 23时40分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26stream_entry_id%3D31%26realpos%3D29%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D29%26cate%3D5001%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761057039%26pre_seqid%3D17610570391500146795897",
+          "source": "微博",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时38分 ~ 23时40分]"
         },
         {
           "title": "金价大涨影响年轻人结婚",
@@ -1494,15 +1611,16 @@
           "time_info": "[21时49分 ~ 22时39分]"
         },
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26stream_entry_id%3D31%26realpos%3D29%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D29%26cate%3D5001%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761057039%26pre_seqid%3D17610570391500146795897",
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D30%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D30%26pos%3D31%26flag%3D0%26stream_entry_id%3D31%26display_time%3D1761054075%26pre_seqid%3D17610540757050230370982",
           "source": "微博",
           "ranks": [
-            29
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时40分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
@@ -1514,6 +1632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "花旗对金价转为看跌，料未来三个月内跌至4000美元",
+          "url": "https://flash.jin10.com/detail/20251021233035750800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "新加坡银行：投资者可能仍热衷于在金价回落时增加黄金配置",
@@ -1558,23 +1687,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        },
-        {
-          "title": "国际金价大跌原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D30%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D30%26pos%3D31%26flag%3D0%26stream_entry_id%3D31%26display_time%3D1761054075%26pre_seqid%3D17610540757050230370982",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -1585,8 +1703,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 22时39分]"
+          "appearance_count": 11,
+          "time_info": "[16时51分 ~ 23时40分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -1600,8 +1718,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时19分 ~ 22时39分]"
+          "appearance_count": 17,
+          "time_info": "[11时19分 ~ 23时40分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -1616,8 +1734,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 22时39分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 23时40分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -1639,11 +1757,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 22时39分]"
+          "appearance_count": 5,
+          "time_info": "[21时49分 ~ 23时40分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -1658,6 +1777,17 @@
           "time_info": "[07时30分 ~ 11时19分]"
         },
         {
+          "title": "DeepSeek新模型速览",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8BDeepSeek-OCR",
           "source": "百度热搜",
@@ -1667,6 +1797,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时30分]"
+        },
+        {
+          "title": "美国副总统万斯：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20251021233445371800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "伊朗副外长：国际原子能机构已要求参观未遭受轰炸的伊朗核设施。",
+          "url": "https://flash.jin10.com/detail/20251021012125922800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 03时05分]"
+        },
+        {
+          "title": "伊朗外长与联合国秘书长通电话 讨论加沙与也门局势",
+          "url": "https://flash.jin10.com/detail/20251021024926380800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 05时03分]"
+        },
+        {
+          "title": "伊朗外长谴责以色列对也门发动的侵略行动",
+          "url": "https://wallstreetcn.com/livenews/2990799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 05时03分]"
+        },
+        {
+          "title": "伊朗称尚不具备与美谈判条件",
+          "url": "https://flash.jin10.com/detail/20251021101945997800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "伊朗称尚不具备与美谈判条件",
+          "url": "https://wallstreetcn.com/livenews/2990959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
@@ -1821,78 +2038,67 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
+      "keyword_group": "美元",
+      "match_count": 5,
       "titles": [
         {
-          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
-          "source": "澎湃新闻",
+          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[07时30分 ~ 23时40分]"
+        },
+        {
+          "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",
+          "url": "https://wallstreetcn.com/livenews/2990815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时06分 ~ 06时04分]"
+        },
+        {
+          "title": "美元指数20日上涨",
+          "url": "https://flash.jin10.com/detail/20251021051721830800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251021103630837800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2991330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时30分]"
-        },
-        {
-          "title": "伊朗副外长：国际原子能机构已要求参观未遭受轰炸的伊朗核设施。",
-          "url": "https://flash.jin10.com/detail/20251021012125922800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 03时05分]"
-        },
-        {
-          "title": "伊朗外长与联合国秘书长通电话 讨论加沙与也门局势",
-          "url": "https://flash.jin10.com/detail/20251021024926380800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时06分 ~ 05时03分]"
-        },
-        {
-          "title": "伊朗外长谴责以色列对也门发动的侵略行动",
-          "url": "https://wallstreetcn.com/livenews/2990799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时06分 ~ 05时03分]"
-        },
-        {
-          "title": "伊朗称尚不具备与美谈判条件",
-          "url": "https://flash.jin10.com/detail/20251021101945997800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "伊朗称尚不具备与美谈判条件",
-          "url": "https://wallstreetcn.com/livenews/2990959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "23时40分"
         }
       ]
     },
@@ -1945,59 +2151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时30分 ~ 22时39分]"
-        },
-        {
-          "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",
-          "url": "https://wallstreetcn.com/livenews/2990815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时06分 ~ 06时04分]"
-        },
-        {
-          "title": "美元指数20日上涨",
-          "url": "https://flash.jin10.com/detail/20251021051721830800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251021103630837800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         }
       ]
     },
