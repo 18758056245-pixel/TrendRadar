@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T02:03:02.000821+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-10-24T03:02:59.792845+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
           "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -38,20 +38,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
-          "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
-          "url": "https://wallstreetcn.com/livenews/2992710",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
           "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
@@ -60,9 +72,34 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
+          "url": "https://wallstreetcn.com/livenews/2992710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 03时02分]"
+        },
+        {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
           "title": "美国白宫：特朗普认为俄罗斯在推动和平方面行动不足。",
@@ -71,18 +108,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普下周二将会见日本首相高市早苗。",
-          "url": "https://wallstreetcn.com/livenews/2992715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -93,32 +119,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
         },
         {
           "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，欧佩克准备增产石油。",
@@ -132,28 +135,30 @@
           "time_info": "01时35分"
         },
         {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
-        },
-        {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/2992695",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             16,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 03时02分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普下周二将会见日本首相高市早苗。",
+          "url": "https://wallstreetcn.com/livenews/2992715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时02分]"
         },
         {
           "title": "日本首相高市早苗安排10月25日（周六）与美国总统特朗普通电话。（Kyodo）",
@@ -161,11 +166,38 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 03时02分]"
+        },
+        {
+          "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
+          "url": "https://wallstreetcn.com/livenews/2992702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 03时02分]"
+        },
+        {
+          "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 03时02分]"
         },
         {
           "title": "报道：特朗普政府可能暂未考虑入股量子计算公司",
@@ -205,37 +237,13 @@
           "time_info": "[01时35分 ~ 02时03分]"
         },
         {
-          "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
-          "url": "https://wallstreetcn.com/livenews/2992702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时03分]"
-        },
-        {
-          "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/2992701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时03分]"
-        },
-        {
           "title": "美国白宫：（关于对币安赵长鹏的赦免）特朗普正在行使宪法赋予的宽恕权力。该赦免已由白宫法律顾问审查。",
           "url": "https://flash.jin10.com/detail/20251024014417750800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -246,9 +254,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗：美国总统特朗普不太可能对石油征收关税，哥伦比亚可以缓解对其他出口的影响。",
+          "url": "https://flash.jin10.com/detail/20251024021527247800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "美国白宫：特朗普将于下周二与日本新任首相会面，将于周三与韩国领导人会面。",
@@ -257,7 +276,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -273,6 +292,28 @@
           "time_info": "00时47分"
         },
         {
+          "title": "特朗普称将取消向旧金山派出国民警卫队",
+          "url": "https://flash.jin10.com/detail/20251024021249818800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普政府宣布开放阿拉斯加沿海平原进行石油钻探。",
+          "url": "https://flash.jin10.com/detail/20251024020956621800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
           "title": "美国旧金山市长：特朗普取消联邦部队的部署。",
           "url": "https://flash.jin10.com/detail/20251024003153717800",
           "source": "金十数据",
@@ -282,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "美国白宫：（就对俄制裁）是否会有更多制裁取决于总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251024020344612800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "报道：特朗普赦免被定罪的币安创始人赵长鹏。",
@@ -295,6 +347,28 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国白宫：特朗普对乌克兰和俄罗斯越来越感到失望。",
+          "url": "https://flash.jin10.com/detail/20251024015637835800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国白宫：特朗普（对俄乌冲突）越来越感到沮丧。",
+          "url": "https://flash.jin10.com/detail/20251024015624513800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
           "title": "俄罗斯总统普京：与美国总统特朗普讨论了俄罗斯石油供应形势对全球油价的影响，包括对美国的影响。",
           "url": "https://flash.jin10.com/detail/20251023234137672800",
           "source": "金十数据",
@@ -304,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国白宫：特朗普希望看到俄罗斯采取行动，而不仅仅是空谈。",
+          "url": "https://flash.jin10.com/detail/20251024015506511800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -320,8 +405,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -331,8 +416,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
           "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
@@ -341,7 +426,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -352,7 +437,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -393,8 +478,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -404,19 +489,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 03时02分]"
         },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
           "url": "https://wallstreetcn.com/articles/3757691",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 03时02分]"
         }
       ]
     },
