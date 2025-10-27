@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:37:37.738411+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-10-27T21:44:29.083663+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -94,6 +94,18 @@
           "time_info": "[00时47分 ~ 06时04分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 21时44分]"
+        },
+        {
           "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
           "url": "https://www.cls.cn/detail/2181112",
           "source": "财联社热门",
@@ -105,18 +117,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时51分 ~ 17时02分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时37分]"
         },
         {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
@@ -169,6 +169,17 @@
           "time_info": "[00时47分 ~ 06时04分]"
         },
         {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
           "url": "https://wallstreetcn.com/livenews/2993966",
           "source": "华尔街见闻-快讯",
@@ -199,7 +210,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -237,6 +248,17 @@
           "time_info": "14时59分"
         },
         {
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "美国总统特朗普：停火是基于哈以双方的义务。我们也希望哈马斯加快归还人质尸体，目前我们还有13名人质，包括两名美国人。我们不认为（以色列的行动）构成对停火的违反。",
           "url": "https://flash.jin10.com/detail/20251027142210815800",
           "source": "金十数据",
@@ -258,6 +280,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时04分]"
+        },
+        {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时44分]"
         },
         {
           "title": "特朗普：期待与日本新首相高市早苗会面。",
@@ -292,8 +326,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 21时44分]"
         },
         {
           "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
@@ -470,17 +504,6 @@
           "time_info": "11时43分"
         },
         {
-          "title": "特朗普访问日本",
-          "url": "https://www.douyin.com/hot/2285103",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
           "title": "巴西总统卢拉：昨日与美国总统特朗普会晤后留下了非常好的印象。我尊重特朗普，他也尊重我。",
           "url": "https://flash.jin10.com/detail/20251027111712719800",
           "source": "金十数据",
@@ -490,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
@@ -525,6 +559,17 @@
           "time_info": "18时04分"
         },
         {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "美国总统特朗普：我们一直关注南美许多国家，特别是在南美洲投入了很多精力，我们对南美洲有了很清楚的掌握。多方面的努力都在进行中。",
           "url": "https://flash.jin10.com/detail/20251027141149356800",
           "source": "金十数据",
@@ -536,6 +581,17 @@
           "time_info": "14时59分"
         },
         {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "美国总统特朗普：我曾反对让韩国工人离开佐治亚州。",
           "url": "https://flash.jin10.com/detail/20251027141042006800",
           "source": "金十数据",
@@ -545,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.toutiao.com/trending/7565221360721592361/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美国总统特朗普：韩国方面有一个很好的计划，打算在美国造船业进行更多投资，甚至超过他们目前的投入。坦白说，他们现在正在讨论如何以最佳方式落实韩方在美国的投资，尤其是关于造船业。",
@@ -619,7 +686,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -663,7 +730,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -715,7 +782,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -776,15 +843,37 @@
           "time_info": "11时43分"
         },
         {
+          "title": "凯投宏观：下调黄金价格预期，预计到2026年底黄金价格将跌至每盎司3,500美元。",
+          "url": "https://flash.jin10.com/detail/20251027205309686800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "路透调查：明年黄金价格预测首次突破每盎司4000美元",
           "url": "https://flash.jin10.com/detail/20251027191426396800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "金十数据整理：金价一路飙升 菲律宾央行却热衷于减持",
+          "url": "https://flash.jin10.com/detail/20251027204235077800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "金价持续跳水是买还是卖",
@@ -801,7 +890,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -822,11 +911,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 21时44分]"
         },
         {
           "title": "美股盘前，科技股、中概股普涨",
@@ -849,6 +939,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027210443791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -939,8 +1051,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 21时44分]"
         }
       ]
     }
