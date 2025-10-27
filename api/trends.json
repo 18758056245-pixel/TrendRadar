@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T04:36:45.822854+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2025-10-28T05:02:58.069818+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时02分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时02分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时02分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -70,11 +70,12 @@
           "ranks": [
             25,
             10,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时02分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -84,11 +85,12 @@
             17,
             19,
             20,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时02分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -105,6 +107,19 @@
           "time_info": "[00时51分 ~ 03时26分]"
         },
         {
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时02分]"
+        },
+        {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://flash.jin10.com/detail/20251028004039681800",
           "source": "金十数据",
@@ -115,18 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时04分]"
-        },
-        {
-          "title": "特朗普到底薅了全世界多少钱",
-          "url": "https://www.toutiao.com/trending/7565875834884460086/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时52分]"
         },
         {
           "title": "评论员：特朗普在马来西亚双喜临门",
@@ -217,6 +220,39 @@
           "time_info": "[00时51分 ~ 01时04分]"
         },
         {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040602720800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时02分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时02分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
+          "url": "https://flash.jin10.com/detail/20251028040154573800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时02分]"
+        },
+        {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
           "url": "https://flash.jin10.com/detail/20251028000829704800",
           "source": "金十数据",
@@ -227,39 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时04分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
-          "url": "https://flash.jin10.com/detail/20251028040154573800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         }
       ]
     },
@@ -274,9 +277,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时02分]"
         },
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
@@ -340,8 +343,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时02分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -351,8 +354,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时02分]"
         },
         {
           "title": "30年期美债收益率跌约3个基点",
@@ -361,9 +364,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时02分]"
         }
       ]
     },
@@ -378,9 +381,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时02分]"
         },
         {
           "title": "周一（10月27日）纽约尾盘，ICE美元指数跌0.13%，报98.826点，日内交投区间为98.999-98.729点。 彭博美元指数跌0.13%，报1211.59点，日内交投区间为1213.35-1210.52点。",
@@ -389,9 +392,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时02分]"
         }
       ]
     },
