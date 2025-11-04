@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T18:49:57.190385+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-11-04T19:02:52.010248+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 18时49分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 19时02分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -188,6 +188,28 @@
           "time_info": "[01时34分 ~ 07时03分]"
         },
         {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 19时02分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时02分]"
+        },
+        {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
           "url": "https://flash.jin10.com/detail/20251104062405788800",
           "source": "金十数据",
@@ -197,28 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 18时49分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：（总统特朗普政府关门造成的）缺乏政府数据不应当干扰到FOMC的决策。",
@@ -246,6 +246,18 @@
           "time_info": "[03时02分 ~ 04时39分]"
         },
         {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 19时02分]"
+        },
+        {
           "title": "美国多方“围剿”特朗普只为废除关税",
           "url": "https://www.toutiao.com/trending/7568663171070692900/",
           "source": "今日头条",
@@ -270,18 +282,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时32分 ~ 13时03分]"
-        },
-        {
-          "title": "特朗普称对中国与其打压不如合作",
-          "url": "https://www.toutiao.com/trending/7568736208902324287/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 18时49分]"
         },
         {
           "title": "美国大约24个州起诉特朗普政府限制“公共服务贷款豁免”的做法",
@@ -520,7 +520,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
@@ -538,8 +538,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时32分 ~ 18时49分]"
+          "appearance_count": 12,
+          "time_info": "[11时32分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -641,11 +641,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时02分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股收盘）",
@@ -945,8 +946,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时02分 ~ 18时49分]"
+          "appearance_count": 14,
+          "time_info": "[06时02分 ~ 19时02分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
