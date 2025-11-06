@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T14:56:38.797839+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-11-06T15:04:12.136249+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -32,16 +32,15 @@
           "time_info": "[00时56分 ~ 07时32分]"
         },
         {
-          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
-          "url": "https://www.cls.cn/detail/2192187",
-          "source": "财联社热门",
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时04分]"
         },
         {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
@@ -54,19 +53,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时03分 ~ 14时56分]"
+          "appearance_count": 11,
+          "time_info": "[05时03分 ~ 15时04分]"
         },
         {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时48分 ~ 15时04分]"
+        },
+        {
+          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
+          "url": "https://www.cls.cn/detail/2192187",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时32分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时38分 ~ 14时56分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 14时56分]"
         },
         {
           "title": "特朗普的大麻烦来了",
@@ -114,6 +114,17 @@
           "time_info": "[11时38分 ~ 13时02分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 15时04分]"
+        },
+        {
           "title": "涉及特朗普，BBC被曝严重造假！",
           "url": "https://news.ifeng.com/c/8o2gk5AC6pP",
           "source": "凤凰网",
@@ -134,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         },
         {
           "title": "美最高法院关税案辩论进展：特朗普胜诉概率降低",
@@ -400,6 +400,28 @@
           "time_info": "[00时56分 ~ 01时39分]"
         },
         {
+          "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
+          "url": "https://flash.jin10.com/detail/20251106140838691800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时04分]"
+        },
+        {
+          "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
+          "url": "https://flash.jin10.com/detail/20251106140101223800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时04分]"
+        },
+        {
           "title": "美国总统特朗普：（谈马姆达尼在纽约市长选举中获胜）必须由我来批准这些事情，他必须尊重华盛顿，否则他将没有成功的机会，他应该主动联系我们。",
           "url": "https://flash.jin10.com/detail/20251106072624223800",
           "source": "金十数据",
@@ -521,17 +543,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
-          "url": "https://flash.jin10.com/detail/20251106140838691800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
           "url": "https://flash.jin10.com/detail/20251106000840561800",
           "source": "金十数据",
@@ -552,17 +563,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
-          "url": "https://flash.jin10.com/detail/20251106140101223800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         },
         {
           "title": "Pinterest（PINS）收跌21%，创该公司美国IPO以来第二最差单日表现，特朗普关税冲击到该公司广告收入。",
@@ -615,8 +615,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时04分]"
         },
         {
           "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
@@ -628,8 +628,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时04分]"
+        },
+        {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时04分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -653,18 +666,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时39分 ~ 05时04分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时56分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -854,6 +855,18 @@
           "time_info": "[01时39分 ~ 03时02分]"
         },
         {
+          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
+          "url": "https://wallstreetcn.com/livenews/3000351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时04分]"
+        },
+        {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
           "url": "https://flash.jin10.com/detail/20251106031453898800",
           "source": "金十数据",
@@ -866,6 +879,28 @@
           "time_info": "[04时01分 ~ 05时04分]"
         },
         {
+          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
+          "url": "https://flash.jin10.com/detail/20251106140725860800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时04分]"
+        },
+        {
+          "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
+          "url": "https://flash.jin10.com/detail/20251106140533490800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时04分]"
+        },
+        {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
           "url": "https://flash.jin10.com/detail/20251106010550622800",
           "source": "金十数据",
@@ -875,17 +910,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
-          "url": "https://wallstreetcn.com/livenews/3000351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         },
         {
           "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
@@ -930,28 +954,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
-        },
-        {
-          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
-          "url": "https://flash.jin10.com/detail/20251106140725860800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
-          "url": "https://flash.jin10.com/detail/20251106140533490800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         }
       ]
     },
@@ -1074,8 +1076,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时04分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
@@ -1090,6 +1092,17 @@
           "time_info": "[01时39分 ~ 03时02分]"
         },
         {
+          "title": "机构：黄金冲关4000美元乏力，强势美债收益率成逆风",
+          "url": "https://flash.jin10.com/detail/20251106142028591800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时04分]"
+        },
+        {
           "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
           "url": "https://wallstreetcn.com/livenews/3000088",
           "source": "华尔街见闻-快讯",
@@ -1099,17 +1112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        },
-        {
-          "title": "机构：黄金冲关4000美元乏力，强势美债收益率成逆风",
-          "url": "https://flash.jin10.com/detail/20251106142028591800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         }
       ]
     },
@@ -1128,6 +1130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时04分]"
+        },
+        {
+          "title": "美元指数DXY失守100，日内跌幅0.12%。",
+          "url": "https://flash.jin10.com/detail/20251106140451205800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时04分]"
         },
         {
           "title": "周三（11月5日）纽约尾盘，ICE美元指数跌0.02%，报100.200点，日内交投区间为100.360-100.059点，北京时间21:15发布美国ADP小非农就业数据前下探100.150点、之后涨向100.350点，23:00发布美国ISM非制造业指数时显著反弹、并刷新日高。 彭博美元指数跌0.08%，报1225.05点，日内交投区间为1227.08-1224.82点。",
@@ -1150,17 +1163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        },
-        {
-          "title": "美元指数DXY失守100，日内跌幅0.12%。",
-          "url": "https://flash.jin10.com/detail/20251106140451205800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         }
       ]
     },
@@ -1184,11 +1186,12 @@
           "url": "https://wallstreetcn.com/livenews/3000356",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时04分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
