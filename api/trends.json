@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T14:48:34.980533+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-11-08T15:02:33.597858+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -31,6 +31,17 @@
           "time_info": "[00时44分 ~ 07时02分]"
         },
         {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时02分]"
+        },
+        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -54,15 +65,32 @@
           "time_info": "[00时44分 ~ 07时02分]"
         },
         {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时02分]"
+        },
+        {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            12,
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时48分]"
+          "time_info": "[11时15分 ~ 15时02分]"
         },
         {
           "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
@@ -111,31 +139,19 @@
           "time_info": "[11时15分 ~ 13时02分]"
         },
         {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
           "source": "金十数据",
           "ranks": [
-            2,
-            11,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时48分]"
-        },
-        {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            14
+            9,
+            18,
+            19,
+            29,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时48分]"
+          "time_info": "[11时15分 ~ 15时02分]"
         },
         {
           "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
@@ -176,20 +192,6 @@
           "time_info": "[03时02分 ~ 05时02分]"
         },
         {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时48分]"
-        },
-        {
           "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
           "url": "https://wallstreetcn.com/livenews/3001469",
           "source": "华尔街见闻-快讯",
@@ -226,6 +228,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时15分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时02分]"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
@@ -274,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时03分]"
+        },
+        {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时02分]"
         },
         {
           "title": "美国总统特朗普：政府停摆持续多久取决于民主党。",
@@ -404,17 +428,6 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
           "url": "https://flash.jin10.com/detail/20251108012705456800",
           "source": "金十数据",
@@ -424,17 +437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        },
-        {
-          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
-          "url": "https://www.cls.cn/detail/2194868",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
         },
         {
           "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
@@ -514,6 +516,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "佩洛西如何与特朗普步步结怨",
+          "url": "https://www.toutiao.com/trending/7570207145937882665/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "美国总统特朗普：我们正在讨论有关与俄罗斯总统普京会晤的问题。",
           "url": "https://flash.jin10.com/detail/20251108015002431800",
           "source": "金十数据",
@@ -542,6 +555,18 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时02分]"
+        },
+        {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -555,18 +580,6 @@
           "time_info": "[00时44分 ~ 07时02分]"
         },
         {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时48分]"
-        },
-        {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
@@ -577,8 +590,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 14时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 15时02分]"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -669,6 +682,17 @@
           "time_info": "[11时15分 ~ 13时02分]"
         },
         {
+          "title": "形势危急！伊朗总统：可能从德黑兰撤离",
+          "url": "https://news.ifeng.com/c/8o6zKd55xJa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时02分]"
+        },
+        {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
           "url": "https://flash.jin10.com/detail/20251107233737190800",
           "source": "金十数据",
@@ -678,17 +702,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时03分]"
-        },
-        {
-          "title": "形势危急！伊朗总统：可能从德黑兰撤离",
-          "url": "https://news.ifeng.com/c/8o6zKd55xJa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
         }
       ]
     },
@@ -762,11 +775,12 @@
           "ranks": [
             8,
             9,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 15时02分]"
         }
       ]
     },
