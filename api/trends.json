@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T14:55:54.240756+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-10T15:33:30.957666+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 15时33分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
@@ -82,6 +82,20 @@
           "time_info": "[00时41分 ~ 06时02分]"
         },
         {
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 15时33分]"
+        },
+        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://news.ifeng.com/c/8oA5auenpcB",
           "source": "凤凰网",
@@ -106,19 +120,6 @@
           "time_info": "[00时41分 ~ 05时02分]"
         },
         {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 14时55分]"
-        },
-        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F",
           "source": "bilibili 热搜",
@@ -139,6 +140,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "泽连斯基：全世界都怕特朗普但我不怕",
+          "url": "https://www.toutiao.com/trending/7569890031507144723/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            7,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 15时33分]"
         },
         {
           "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
@@ -206,19 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "泽连斯基：全世界都怕特朗普但我不怕",
-          "url": "https://www.toutiao.com/trending/7569890031507144723/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时55分]"
         },
         {
           "title": "特朗普称关税将使大多数美国人获得至少2000美元补助",
@@ -322,6 +324,18 @@
           "time_info": "[11时41分 ~ 13时40分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 15时33分]"
+        },
+        {
           "title": "特朗普宣布一个大消息",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B6%88%E6%81%AF",
           "source": "百度热搜",
@@ -355,17 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时40分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时55分]"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -407,7 +410,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -440,8 +443,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 14时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 15时33分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -449,11 +452,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 15时33分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -464,8 +468,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 15时33分]"
         }
       ]
     },
@@ -481,11 +485,12 @@
             22,
             23,
             24,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 15时33分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
