@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T16:51:09.242695+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-11-11T17:02:17.375744+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时36分 ~ 16时51分]"
+          "appearance_count": 8,
+          "time_info": "[11时36分 ~ 17时02分]"
         },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
@@ -92,9 +92,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时02分]"
+        },
+        {
+          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
+          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 17时02分]"
         },
         {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
@@ -118,18 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时50分 ~ 04时02分]"
-        },
-        {
-          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
-          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 16时51分]"
         },
         {
           "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
@@ -430,6 +430,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "美国总统特朗普：没有休假的空中交通管制员将获得1万美元奖金。",
           "url": "https://flash.jin10.com/detail/20251110233120922800",
           "source": "金十数据",
@@ -682,8 +693,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时36分 ~ 16时51分]"
+          "appearance_count": 8,
+          "time_info": "[11时36分 ~ 17时02分]"
         },
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -896,9 +907,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时02分]"
         },
         {
           "title": "软银：已于10月以58.3亿美元的价格出售了英伟达的股份。 在6月至9月期间出售了价值91.7亿美元的T-MOBILE股份。 与OpenAI签署了修订协议，承诺将追加投资225亿美元。 将于12月通过愿景基金2完成全部投资。",
@@ -999,6 +1010,18 @@
           "time_info": "[04时02分 ~ 05时31分]"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时02分]"
+        },
+        {
           "title": "金价大涨但黄金首饰难卖了",
           "url": "https://www.toutiao.com/trending/7571079598381731371/",
           "source": "今日头条",
@@ -1011,15 +1034,15 @@
           "time_info": "[06时02分 ~ 07时31分]"
         },
         {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
+          "title": "最长政府停摆即将结束 金价创下近三周新高",
+          "url": "https://flash.jin10.com/detail/20251111163501589800",
+          "source": "金十数据",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
+          "time_info": "[16时51分 ~ 17时02分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
@@ -1031,17 +1054,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
-        },
-        {
-          "title": "最长政府停摆即将结束 金价创下近三周新高",
-          "url": "https://flash.jin10.com/detail/20251111163501589800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         }
       ]
     },
@@ -1068,8 +1080,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时02分]"
         },
         {
           "title": "美国官员表示，黎巴嫩必须“结束伊朗通过真主党施加的恶意影响”。",
@@ -1196,6 +1208,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "梅茨勒银行：美债收益率面临政府重开、新债发行与关税合法性三重压力",
+          "url": "https://flash.jin10.com/detail/20251111163551460800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时02分]"
+        },
+        {
           "title": "近30年全球央行黄金持有首次超美债",
           "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
           "source": "百度热搜",
@@ -1205,17 +1228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时03分]"
-        },
-        {
-          "title": "梅茨勒银行：美债收益率面临政府重开、新债发行与关税合法性三重压力",
-          "url": "https://flash.jin10.com/detail/20251111163551460800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         }
       ]
     },
