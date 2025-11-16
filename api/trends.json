@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:02:15.790242+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-11-16T18:02:22.579876+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -149,11 +149,12 @@
             5,
             6,
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 18时02分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -164,8 +165,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时02分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时02分]"
+          "time_info": "[17时01分 ~ 18时02分]"
         },
         {
           "title": "特朗普想发2000美元支票 钱从哪来",
@@ -177,17 +189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时16分 ~ 13时02分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -286,11 +287,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
@@ -298,11 +300,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -330,11 +333,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时01分 ~ 17时02分]"
+          "appearance_count": 28,
+          "time_info": "[00时01分 ~ 18时02分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -364,8 +368,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时01分 ~ 17时02分]"
+          "appearance_count": 28,
+          "time_info": "[00时01分 ~ 18时02分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -407,8 +411,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时01分 ~ 17时02分]"
+          "appearance_count": 28,
+          "time_info": "[00时01分 ~ 18时02分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -418,8 +422,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时02分]"
         }
       ]
     }
