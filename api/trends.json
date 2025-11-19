@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T19:02:09.689102+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-11-19T20:17:26.641572+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时25分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 20时17分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -55,11 +55,12 @@
             10,
             8,
             22,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时38分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 20时17分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -101,6 +102,29 @@
           "time_info": "08时02分"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 20时17分]"
+        },
+        {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
           "url": "https://flash.jin10.com/detail/20251119014948349800",
           "source": "金十数据",
@@ -110,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普怒怼提问记者",
+          "url": "https://www.douyin.com/hot/2310914",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "特朗普政府：正采取行动来瓦解美国教育部。",
@@ -145,16 +180,15 @@
           "time_info": "16时02分"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时02分 ~ 19时02分]"
+          "time_info": "[17时02分 ~ 20时17分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -218,17 +252,6 @@
           "time_info": "[03时02分 ~ 04时02分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 19时02分]"
-        },
-        {
           "title": "沙特王储：同意在美国投资6000亿美元，将扩大至1万亿美元。特朗普：那个数字可以扩大。",
           "url": "https://wallstreetcn.com/livenews/3006675",
           "source": "华尔街见闻-快讯",
@@ -240,6 +263,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 04时02分]"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时17分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -310,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时02分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -435,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
+          "url": "https://wallstreetcn.com/livenews/3007210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
@@ -833,6 +867,20 @@
           "time_info": "[07时02分 ~ 14时02分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 20时17分]"
+        },
+        {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251119110356903800",
           "source": "金十数据",
@@ -856,19 +904,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 19时02分]"
         },
         {
           "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
@@ -1045,8 +1080,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时25分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 20时17分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -1075,8 +1110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时38分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 20时17分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -1094,8 +1129,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时25分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 20时17分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1148,8 +1183,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时01分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[15时01分 ~ 20时17分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -1266,6 +1301,58 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时25分 ~ 20时17分]"
+        },
+        {
+          "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
+          "url": "https://flash.jin10.com/detail/20251119200941299800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "OpenAI与Target公司宣布合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3007199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "OpenAI：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20251118232058871800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1319,32 +1406,30 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
         {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 19时02分]"
-        },
-        {
-          "title": "OpenAI：所有受影响的服务现已完全恢复。",
-          "url": "https://flash.jin10.com/detail/20251118232058871800",
+          "title": "沙特王储：将尽最大努力推动伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20251119014943997800",
           "source": "金十数据",
           "ranks": [
-            26
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "国际原子能机构总干事：国际原子能机构核查人员已重返伊朗",
+          "url": "https://wallstreetcn.com/livenews/3007207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
@@ -1397,23 +1482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沙特王储：将尽最大努力推动伊朗协议。",
-          "url": "https://flash.jin10.com/detail/20251119014943997800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
         }
       ]
     }
