@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T12:12:47.390134+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2025-11-21T13:02:32.626332+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -76,6 +76,19 @@
           "time_info": "[04时01分 ~ 07时01分]"
         },
         {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 13时02分]"
+        },
+        {
           "title": "文件显示：特朗普政府正在准备一项计划，以减轻政府裁员的法律障碍。",
           "url": "https://flash.jin10.com/detail/20251121013301455800",
           "source": "金十数据",
@@ -121,19 +134,6 @@
           "time_info": "[00时02分 ~ 05时02分]"
         },
         {
-          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
-          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 12时12分]"
-        },
-        {
           "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
           "url": "https://flash.jin10.com/detail/20251121034506288800",
           "source": "金十数据",
@@ -158,6 +158,19 @@
           "time_info": "[03时02分 ~ 04时02分]"
         },
         {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 13时02分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的这项命令将适用于11月13日之后进入美国的商品。",
           "url": "https://flash.jin10.com/detail/20251121054227778800",
           "source": "金十数据",
@@ -168,18 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时01分]"
-        },
-        {
-          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2206817",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时12分]"
         },
         {
           "title": "美国白宫：美国总统特朗普签署命令，修改对巴西政府关税的适用范围。",
@@ -260,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普晒与C罗在白宫踢球AI视频",
+          "url": "https://www.toutiao.com/trending/7574730776219369513/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美国白宫：特朗普经常与马克龙交谈。",
@@ -430,7 +442,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -456,8 +468,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时01分 ~ 12时12分]"
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 13时02分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -468,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 13时02分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -481,8 +493,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 13时02分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -492,8 +504,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时02分]"
+        },
+        {
+          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
+          "url": "https://wallstreetcn.com/articles/3759847",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 13时02分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -507,18 +532,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时12分]"
-        },
-        {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251121013149531800",
           "source": "金十数据",
@@ -528,6 +541,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
+          "url": "https://flash.jin10.com/detail/20251121121525026800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时02分]"
         },
         {
           "title": "美股尾盘，标普500指数跌1.3%，道指跌0.65%，纳指跌443点跌幅2%，纳斯达克100指数跌526点跌幅2.14%，半导体指数跌2.59%。",
@@ -540,6 +576,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时02分]"
         },
         {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
@@ -646,17 +694,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.toutiao.com/trending/7574979338739650091/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "美股三大指数集体收跌",
           "url": "https://www.toutiao.com/trending/7574947339870146102/",
           "source": "今日头条",
@@ -677,17 +714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "美股高开低走动能迅速消退 降息疑虑与避险情绪笼罩市场",
@@ -789,6 +815,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美股三大指数转跌，标普500指数跌0.3%，纳斯达克指数跌0.5%，道琼斯指数跌0.2%。英伟达(NVDA.O)跌幅扩大至1%，此前一度涨超5%。",
           "url": "https://flash.jin10.com/detail/20251121005949540800",
           "source": "金十数据",
@@ -809,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美股跳水暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美股收盘：纳指跌超2% 英伟达高开低收",
@@ -884,11 +932,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时02分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
@@ -1009,6 +1058,20 @@
           "time_info": "01时14分"
         },
         {
+          "title": "伊朗外长：开罗协议正式终止",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E5%BC%80%E7%BD%97%E5%8D%8F%E8%AE%AE%E6%AD%A3%E5%BC%8F%E7%BB%88%E6%AD%A2",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            6,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 13时02分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：冲突会随时爆发",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E5%86%B2%E7%AA%81%E4%BC%9A%E9%9A%8F%E6%97%B6%E7%88%86%E5%8F%91",
           "source": "百度热搜",
@@ -1033,19 +1096,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
-        },
-        {
-          "title": "伊朗外长：开罗协议正式终止",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E5%BC%80%E7%BD%97%E5%8D%8F%E8%AE%AE%E6%AD%A3%E5%BC%8F%E7%BB%88%E6%AD%A2",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 12时12分]"
         },
         {
           "title": "伊朗外长：与国际原子能机构签署的开罗协议正式终止",
@@ -1088,6 +1138,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "OpenAI正式推出ChatGPT群聊功能",
+          "url": "https://wallstreetcn.com/livenews/3008363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时02分]"
+        },
+        {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
           "url": "https://wallstreetcn.com/livenews/3008088",
           "source": "华尔街见闻-快讯",
@@ -1105,18 +1168,6 @@
           "source": "金十数据",
           "ranks": [
             13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时12分]"
-        },
-        {
-          "title": "OpenAI正式推出ChatGPT群聊功能",
-          "url": "https://wallstreetcn.com/livenews/3008363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
             20
           ],
           "is_new": false,
@@ -1194,8 +1245,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 13时02分]"
         },
         {
           "title": "美债价格在就业数据发布后反弹，风险资产下跌让投资者转向避险美债",
