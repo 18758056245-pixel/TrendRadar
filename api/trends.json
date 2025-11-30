@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:24:49.129086+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2025-11-30T13:02:01.530180+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 12时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -176,11 +176,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 13时02分]"
         }
       ]
     },
@@ -211,8 +212,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -223,8 +224,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 13时02分]"
         }
       ]
     },
@@ -246,8 +247,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -316,8 +317,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 12时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时02分]"
         }
       ]
     }
