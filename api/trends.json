@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T17:02:06.359191+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2025-11-30T18:02:17.821236+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时01分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[15时01分 ~ 18时02分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -277,8 +277,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 17时02分]"
+          "appearance_count": 25,
+          "time_info": "[00时02分 ~ 18时02分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -300,6 +300,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
+          "url": "https://news.ifeng.com/c/8ohK4NeU28p",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 18时02分]"
+        },
+        {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
           "url": "https://flash.jin10.com/detail/20251129231934613800",
           "source": "金十数据",
@@ -314,18 +326,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时02分 ~ 13时02分]"
-        },
-        {
-          "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
-          "url": "https://news.ifeng.com/c/8ohK4NeU28p",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时02分 ~ 17时02分]"
         }
       ]
     },
@@ -339,11 +339,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时01分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 18时02分]"
         }
       ]
     },
