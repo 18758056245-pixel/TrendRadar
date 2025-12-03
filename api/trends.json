@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T22:03:05.604969+08:00",
-  "total_titles_processed": 1915,
+  "generated_at": "2025-12-03T23:02:54.473096+08:00",
+  "total_titles_processed": 2014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 103,
       "titles": [
         {
           "title": "特朗普“点名”日本",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时02分 ~ 22时03分]"
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 23时02分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -80,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时42分 ~ 22时03分]"
+          "appearance_count": 19,
+          "time_info": "[08时42分 ~ 23时02分]"
         },
         {
           "title": "特朗普威胁：将实施陆地打击",
@@ -92,8 +92,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时02分 ~ 22时03分]"
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 23时02分]"
         },
         {
           "title": "特朗普点名日本",
@@ -182,6 +182,20 @@
           "time_info": "05时02分"
         },
         {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时02分 ~ 23时02分]"
+        },
+        {
           "title": "美国总统特朗普：我喜欢他（指巴西总统卢拉）。",
           "url": "https://flash.jin10.com/detail/20251203043716378800",
           "source": "金十数据",
@@ -237,17 +251,15 @@
           "time_info": "08时42分"
         },
         {
-          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
-          "url": "https://www.cls.cn/detail/2218431",
-          "source": "财联社热门",
+          "title": "美国财长贝森特：特朗普政府的监管改革将释放银行额外2.5万亿美元的贷款能力。",
+          "url": "https://flash.jin10.com/detail/20251203224703158800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12,
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时02分 ~ 22时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -435,6 +447,17 @@
           "time_info": "[03时11分 ~ 05时02分]"
         },
         {
+          "title": "外交部回应特朗普签署涉台法案，敦促美方「慎之又慎处理台湾问题，停止美台官方往来」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1979582977764783855",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普在内阁会议上睡眼惺忪",
           "url": "https://www.toutiao.com/trending/7579102119777828918/",
           "source": "今日头条",
@@ -590,17 +613,6 @@
           "time_info": "[02时02分 ~ 03时11分]"
         },
         {
-          "title": "外交部回应特朗普签署涉台法案，敦促美方「慎之又慎处理台湾问题，停止美台官方往来」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1979582977764783855",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        },
-        {
           "title": "特朗普将于明年初宣布美联储主席人选",
           "url": "https://flash.jin10.com/detail/20251203011403459800",
           "source": "金十数据",
@@ -690,7 +702,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -915,6 +927,28 @@
           "time_info": "20时02分"
         },
         {
+          "title": "美国财长贝森特：总统特朗普已经将15%-20%的关税想法常态化。 我已经表达自己对关税问题的看法。 特朗普的关税立场是正确的，他有更高的风险耐受性。",
+          "url": "https://wallstreetcn.com/livenews/3014510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
           "url": "https://flash.jin10.com/detail/20251203010547676800",
           "source": "金十数据",
@@ -1135,6 +1169,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（12月2日，特朗普介绍哈塞特是“潜在美联储主席”当天）担保隔夜融资利率（SOFR）报4.01%，之前一天报4.12%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.89%。",
+          "url": "https://wallstreetcn.com/livenews/3014498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "中方回应特朗普签属涉台法律",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%B1%9E%E6%B6%89%E5%8F%B0%E6%B3%95%E5%BE%8B",
           "source": "百度热搜",
@@ -1171,7 +1216,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -1182,8 +1227,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时42分 ~ 22时03分]"
+          "appearance_count": 19,
+          "time_info": "[08时42分 ~ 23时02分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1240,9 +1285,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银高位震荡，离岸人民币创14个月来高点",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
@@ -1325,6 +1381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "能源业ETF涨0.65%，在美股盘初领跑行业ETF，半导体ETF则跌0.22%，科技行业ETF跌0.6%，全球科技股指数ETF跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3014514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "第三季度财报发布后，GitLab美股盘前下跌8%。",
@@ -1415,6 +1493,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "纳斯达克100股指期货美股盘前转跌，英伟达（盘前）转跌。",
+          "url": "https://wallstreetcn.com/livenews/3014503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 小鹏跌近8%",
           "url": "https://flash.jin10.com/detail/20251203050114408800",
           "source": "金十数据",
@@ -1424,6 +1513,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251203223628216800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3014495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘前上涨1.8%；富国银行首次覆盖并给予“超配评级”。",
@@ -1440,7 +1551,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -1452,8 +1563,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时42分 ~ 22时03分]"
+          "appearance_count": 19,
+          "time_info": "[08时42分 ~ 23时02分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -1554,6 +1665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至巴尔的摩、圣路易斯、匹兹堡、费城等四个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3014500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "谷歌的TPU要干掉英伟达吗",
@@ -1702,7 +1824,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1743,7 +1865,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -1802,6 +1924,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 08时42分]"
+        },
+        {
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
