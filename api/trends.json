@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T16:02:26.681884+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2025-12-03T17:14:59.966730+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普“点名”日本",
@@ -51,11 +51,12 @@
             4,
             2,
             5,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时29分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时29分 ~ 17时14分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -68,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时42分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时42分 ~ 17时14分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时42分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -119,24 +131,13 @@
           "time_info": "05时02分"
         },
         {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
           "url": "https://news.ifeng.com/c/8omUX9I4Irn",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -215,6 +216,18 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时14分]"
+        },
+        {
           "title": "美国总统特朗普：将重建杜勒斯机场。",
           "url": "https://flash.jin10.com/detail/20251203013412119800",
           "source": "金十数据",
@@ -250,6 +263,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时42分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时14分]"
         },
         {
           "title": "金十提示：特朗普内阁会议讲话结束。",
@@ -336,6 +361,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：国民警卫队将在几周内前往新奥尔良。",
@@ -518,17 +555,6 @@
           "time_info": "[11时45分 ~ 12时18分]"
         },
         {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "美媒：特朗普取消本周的美联储主席遴选面试",
           "url": "https://flash.jin10.com/detail/20251203075259305800",
           "source": "金十数据",
@@ -560,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "外交部回应特朗普签法律加深美台联系",
+          "url": "https://www.toutiao.com/trending/7579439474674483219/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "特朗普与巴西总统讨论合作打击有组织犯罪等议题",
@@ -601,7 +638,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -615,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -659,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
@@ -848,17 +907,6 @@
           "time_info": "10时29分"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "巴西总统府：巴西总统卢拉与美国总统特朗普通话40分钟，会谈非常富有成效。",
           "url": "https://flash.jin10.com/detail/20251203005842959800",
           "source": "金十数据",
@@ -914,17 +962,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "美国总统特朗普：将于明年年初宣布新任美联储主席，贝森特不想要美联储的工作。",
           "url": "https://flash.jin10.com/detail/20251203005722605800",
           "source": "金十数据",
@@ -934,6 +971,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "金十提示：特朗普开始在白宫内阁会议上发表讲话。",
@@ -953,7 +1001,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -967,6 +1015,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普开会被拍到多次闭眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
@@ -994,8 +1053,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时42分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时42分 ~ 17时14分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1187,8 +1246,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时42分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时42分 ~ 17时14分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -1202,8 +1261,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 17时14分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1498,8 +1557,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 16时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 17时14分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金午盘价为951.51元/克，较国际金价(954.83元/克)，低3.32元/克",
@@ -1508,7 +1567,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
