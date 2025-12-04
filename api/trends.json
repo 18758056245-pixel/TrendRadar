@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T16:02:09.242852+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2025-12-04T17:14:18.018457+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -70,8 +70,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时13分 ~ 16时02分]"
+          "appearance_count": 23,
+          "time_info": "[01时13分 ~ 17时14分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -91,11 +91,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 17时14分]"
         },
         {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
@@ -105,11 +106,12 @@
             19,
             17,
             18,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 17时14分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -118,11 +120,12 @@
           "ranks": [
             12,
             10,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -167,6 +170,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -397,17 +412,6 @@
           "time_info": "[06时02分 ~ 07时04分]"
         },
         {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
           "title": "美国总统特朗普重申将很快对毒品恐怖分子发动陆地打击。",
           "url": "https://flash.jin10.com/detail/20251204052252756800",
           "source": "金十数据",
@@ -568,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
+          "url": "https://wallstreetcn.com/articles/3760664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -1212,7 +1227,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
