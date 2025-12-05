@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:19:57.206672+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2025-12-05T13:02:40.801807+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -325,8 +325,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时43分 ~ 12时19分]"
+          "appearance_count": 6,
+          "time_info": "[08时43分 ~ 13时02分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -499,8 +499,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 12时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -511,8 +511,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时43分 ~ 12时19分]"
+          "appearance_count": 6,
+          "time_info": "[08时43分 ~ 13时02分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -553,11 +553,12 @@
             4,
             6,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 12时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -671,11 +672,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时02分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
