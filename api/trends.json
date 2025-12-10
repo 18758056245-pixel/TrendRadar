@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T13:16:17.111137+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-12-10T14:03:11.242835+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -21,6 +21,17 @@
           "time_info": "[00时02分 ~ 08时44分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时03分]"
+        },
+        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -32,19 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 14时03分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时02分 ~ 08时44分]"
+        },
+        {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "特朗普在宾夕法尼亚活动上称：我们有一个糟糕的美联储主席。将在美联储中进行大调整。",
@@ -257,6 +268,30 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 14时03分]"
+        },
+        {
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 14时03分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -292,17 +327,6 @@
           "time_info": "[01时11分 ~ 03时02分]"
         },
         {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
           "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
           "url": "https://wallstreetcn.com/livenews/3017890",
           "source": "华尔街见闻-快讯",
@@ -327,6 +351,28 @@
           "time_info": "[02时02分 ~ 03时02分]"
         },
         {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普厕所门口受访被人推门撞到",
+          "url": "https://www.toutiao.com/trending/7582097221663936046/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
+        },
+        {
           "title": "美国企业界对特朗普执政表现评价不高",
           "url": "https://www.toutiao.com/trending/7581666417361092614/",
           "source": "今日头条",
@@ -337,17 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 12时23分]"
-        },
-        {
-          "title": "邵永灵：特朗普正用国家权力变现",
-          "url": "https://www.toutiao.com/trending/7582064656005467699/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
@@ -564,8 +599,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 13时16分]"
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 14时03分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -828,8 +863,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时03分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -881,8 +916,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时03分]"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
