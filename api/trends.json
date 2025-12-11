@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T20:02:51.583045+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2025-12-11T21:32:07.122597+08:00",
+  "total_titles_processed": 2080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时51分 ~ 16时02分]"
+        },
+        {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时32分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -60,15 +71,15 @@
           "time_info": "[08时44分 ~ 16时02分]"
         },
         {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
           "source": "凤凰网",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时32分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -80,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：（谈英伟达H200芯片）是美国总统特朗普与英伟达CEO之间的交易。",
+          "url": "https://flash.jin10.com/detail/20251211210900621800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
@@ -105,17 +127,6 @@
           "time_info": "[05时02分 ~ 06时01分]"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时02分]"
-        },
-        {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
           "url": "https://flash.jin10.com/detail/20251211005314935800",
           "source": "金十数据",
@@ -138,6 +149,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时02分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时32分]"
         },
         {
           "title": "美威胁国际刑事法院：不要调查特朗普",
@@ -222,18 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 10时46分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时02分]"
         },
         {
           "title": "美国总统特朗普：我们能够实现比传统数据好得多的成绩。可以在没有通货膨胀的情况下实现巨大增长。",
@@ -605,7 +617,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -701,7 +713,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -711,8 +723,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时44分 ~ 20时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时44分 ~ 21时32分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -749,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211211225908800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股盘中）",
@@ -1301,6 +1324,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         }
       ]
     }
