@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:02:16.142000+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-12-16T19:02:22.483178+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时50分 ~ 18时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时50分 ~ 19时02分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -95,11 +95,12 @@
             13,
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时46分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 19时02分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -138,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 19时02分]"
         },
         {
           "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
@@ -181,7 +182,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -853,7 +854,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -886,7 +887,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -919,7 +920,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -952,6 +953,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时02分]"
+        },
+        {
           "title": "“俄版谷歌”，正帮中国商人大赚",
           "url": "https://news.ifeng.com/c/8p87L7ByRCW",
           "source": "凤凰网",
@@ -973,17 +985,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 04时02分]"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时02分]"
         },
         {
           "title": "据The Information：OpenAI聘请谷歌高管负责并购事务，任命Albert Lee担任企业发展负责人。",
@@ -1043,7 +1044,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
