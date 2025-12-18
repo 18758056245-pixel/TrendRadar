@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T14:02:19.503248+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2025-12-18T15:14:18.499016+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 14时02分]"
+          "appearance_count": 22,
+          "time_info": "[00时13分 ~ 15时14分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -58,8 +58,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时40分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时40分 ~ 15时14分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -72,8 +72,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 14时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 15时14分]"
         },
         {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
@@ -423,6 +423,17 @@
           "time_info": "08时40分"
         },
         {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
           "url": "https://flash.jin10.com/detail/20251218055750070800",
           "source": "金十数据",
@@ -635,8 +646,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时01分 ~ 14时02分]"
+          "appearance_count": 13,
+          "time_info": "[06时01分 ~ 15时14分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -821,11 +832,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 14时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 15时14分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -905,9 +917,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时14分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -946,7 +958,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -971,6 +983,29 @@
           "time_info": "08时40分"
         },
         {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时14分]"
+        },
+        {
           "title": "ChatGPT找不出美国应对彩虹-7的方法",
           "url": "https://www.toutiao.com/trending/7584059510923739178/",
           "source": "今日头条",
@@ -991,17 +1026,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         },
         {
           "title": "据悉OpenAI拟融资高达1000亿美元，公司估值约为7500亿美元",
