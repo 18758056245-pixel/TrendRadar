@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T17:14:24.692931+08:00",
-  "total_titles_processed": 1680,
+  "generated_at": "2025-12-19T18:02:27.353203+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -21,6 +21,20 @@
           "time_info": "[00时01分 ~ 10时46分]"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
           "url": "https://www.cls.cn/detail/2234192",
           "source": "财联社热门",
@@ -32,30 +46,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时46分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 17时14分]"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时02分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -70,8 +60,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 17时14分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时02分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -85,11 +86,12 @@
             14,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时02分 ~ 17时14分]"
+          "appearance_count": 19,
+          "time_info": "[02时02分 ~ 18时02分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -107,11 +109,12 @@
           "url": "https://news.ifeng.com/c/8pCr08QqAFx",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 18时02分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -125,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 17时14分]"
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 18时02分]"
         },
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
@@ -134,11 +137,12 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 18时02分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -174,17 +178,6 @@
           "time_info": "03时11分"
         },
         {
-          "title": "特朗普：美国将在月球部署核反应堆",
-          "url": "https://www.toutiao.com/trending/7585339674915573286/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
           "url": "https://www.cls.cn/detail/2234355",
           "source": "财联社热门",
@@ -194,8 +187,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普：美国将在月球部署核反应堆",
+          "url": "https://www.toutiao.com/trending/7585339674915573286/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -695,6 +699,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美国总统特朗普：大麻行政命令绝不会以任何方式使大麻合法化。",
           "url": "https://flash.jin10.com/detail/20251219024812197800",
           "source": "金十数据",
@@ -811,7 +826,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -833,7 +848,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -933,8 +948,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 18时02分]"
         },
         {
           "title": "甲骨文美股盘后涨3%。",
@@ -954,7 +969,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -1095,7 +1110,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -1611,7 +1626,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
