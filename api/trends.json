@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T18:02:15.746610+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2025-12-22T19:02:48.101630+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时37分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时37分 ~ 19时02分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -76,6 +76,22 @@
           "time_info": "[11时59分 ~ 17时17分]"
         },
         {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时37分 ~ 19时02分]"
+        },
+        {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
           "source": "澎湃新闻",
@@ -89,21 +105,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[03时02分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时37分 ~ 18时02分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -182,8 +183,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 19时02分]"
         },
         {
           "title": "飞机闯入特朗普官邸上空被紧急拦截",
@@ -199,6 +200,17 @@
           "time_info": "[16时01分 ~ 18时02分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 19时02分]"
+        },
+        {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
           "url": "https://wallstreetcn.com/livenews/3024453",
           "source": "华尔街见闻-快讯",
@@ -209,17 +221,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -233,6 +234,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时02分 ~ 07时02分]"
+        },
+        {
+          "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
+          "url": "https://wallstreetcn.com/livenews/3024905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
@@ -278,7 +290,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -300,7 +312,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -312,8 +324,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 19时02分]"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -336,99 +348,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金价又涨了",
-          "url": "https://www.douyin.com/hot/2342947",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 08时47分]"
         },
         {
-          "title": "金十图示：2025年12月22日（周一）上海金午盘价为993.82元/克，较国际金价(998.15元/克)低4.33元/克",
-          "url": "https://flash.jin10.com/detail/20251222150851524800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时02分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
-          "title": "现货黄金价格再创历史新高",
-          "url": "https://www.toutiao.com/trending/7586548209984474650/",
-          "source": "今日头条",
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
-          "url": "https://flash.jin10.com/detail/20251222110152377800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "在金价首次突破4400美元/盎司后，美国上市黄金矿业股盘前上涨。Sibanye Stillwater股价上涨3.5%，AngloGold Ashanti上涨4.2%，纽蒙特矿业上涨2.5%。金罗斯黄金上涨2.8%，Gold Fields上涨3.8%，Agnico Eagle上涨2.1%，巴里克黄金上涨2.5%。",
-          "url": "https://flash.jin10.com/detail/20251222171819261800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "金价再创新高，哪些长线逻辑值得关注？",
-          "url": "https://flash.jin10.com/detail/20251222102334389800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "19时02分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -502,11 +438,12 @@
           "url": "https://www.toutiao.com/trending/7586586005637959214/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 19时02分]"
         },
         {
           "title": "美军为何批量山寨伊朗“小摩托”",
@@ -518,6 +455,104 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
+          "url": "https://flash.jin10.com/detail/20251222182227867800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金价又涨了",
+          "url": "https://www.douyin.com/hot/2342947",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 08时47分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）上海金午盘价为993.82元/克，较国际金价(998.15元/克)低4.33元/克",
+          "url": "https://flash.jin10.com/detail/20251222150851524800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 16时02分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "现货黄金价格再创历史新高",
+          "url": "https://www.toutiao.com/trending/7586548209984474650/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
+          "url": "https://flash.jin10.com/detail/20251222110152377800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "在金价首次突破4400美元/盎司后，美国上市黄金矿业股盘前上涨。Sibanye Stillwater股价上涨3.5%，AngloGold Ashanti上涨4.2%，纽蒙特矿业上涨2.5%。金罗斯黄金上涨2.8%，Gold Fields上涨3.8%，Agnico Eagle上涨2.1%，巴里克黄金上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251222171819261800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "金价再创新高，哪些长线逻辑值得关注？",
+          "url": "https://flash.jin10.com/detail/20251222102334389800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
@@ -562,8 +597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 19时02分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -576,8 +611,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 19时02分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -605,11 +640,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时01分 ~ 18时02分]"
+          "appearance_count": 29,
+          "time_info": "[00时01分 ~ 19时02分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -686,11 +722,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 19时02分]"
         }
       ]
     }
