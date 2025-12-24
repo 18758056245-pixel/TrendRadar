@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T18:02:06.777039+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2025-12-24T19:02:17.470925+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时51分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[11时51分 ~ 19时02分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -126,11 +126,12 @@
             22,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 18时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时02分 ~ 19时02分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -181,11 +182,12 @@
           "url": "https://news.ifeng.com/c/8pLddKy6eAN",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 19时02分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -287,6 +289,17 @@
           "time_info": "[10时45分 ~ 12时26分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
           "url": "https://wallstreetcn.com/livenews/3025698",
           "source": "华尔街见闻-快讯",
@@ -380,6 +393,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普的造舰计划显露出什么意图",
+          "url": "https://www.toutiao.com/trending/7587357835957112347/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "新公布爱泼斯坦案文件涉特朗普 美司法部：部分内容不实",
+          "url": "https://wallstreetcn.com/livenews/3026175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224182355031800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "特朗普政府估计还需要大约一周时间，以及审查多达70万页的文件，才能完成所有爱泼斯坦相关文件的公开工作。",
@@ -588,17 +634,6 @@
           "time_info": "[00时02分 ~ 06时02分]"
         },
         {
-          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
-          "url": "https://wallstreetcn.com/livenews/3026156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251224013118079800",
           "source": "金十数据",
@@ -631,6 +666,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
+          "url": "https://wallstreetcn.com/livenews/3026156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
@@ -775,11 +822,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时02分]"
         },
         {
           "title": "金价癫了",
@@ -910,6 +958,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗在安理会感谢中国",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -920,17 +980,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时43分 ~ 11时51分]"
-        },
-        {
-          "title": "伊朗代表：感谢中俄",
-          "url": "https://www.douyin.com/hot/2345871",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
@@ -969,8 +1018,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时43分 ~ 18时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时43分 ~ 19时02分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -995,11 +1044,12 @@
           "url": "https://wallstreetcn.com/livenews/3026145",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         }
       ]
     },
