@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T13:17:06.404684+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-01-02T14:02:13.293516+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -103,6 +103,17 @@
           "time_info": "[00时02分 ~ 02时02分]"
         },
         {
+          "title": "特朗普称手上瘀伤是服用阿司匹林造成",
+          "url": "https://www.toutiao.com/trending/7589823768060706870/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
           "url": "https://flash.jin10.com/detail/20260102083147084800",
           "source": "金十数据",
@@ -177,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 14时02分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -244,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 13时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时01分 ~ 14时02分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -253,11 +264,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 14时02分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -269,8 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 14时02分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -282,8 +294,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 13时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 14时02分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -379,8 +391,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 13时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时01分 ~ 14时02分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -419,22 +431,24 @@
           "source": "今日头条",
           "ranks": [
             4,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 14时02分]"
         },
         {
           "title": "周大福足金价格均为1357元/克，老凤祥1354元/克",
           "url": "https://wallstreetcn.com/livenews/3029730",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时02分]"
         }
       ]
     },
