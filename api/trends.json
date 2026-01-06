@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:02:18.683765+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-01-06T20:02:54.384347+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -93,6 +93,20 @@
           "time_info": "[08时45分 ~ 18时02分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 20时02分]"
+        },
+        {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
           "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
           "source": "凤凰网",
@@ -152,8 +166,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时13分 ~ 19时02分]"
+          "appearance_count": 25,
+          "time_info": "[00时13分 ~ 20时02分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -177,19 +191,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时13分 ~ 08时45分]"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 19时02分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -241,6 +242,32 @@
           "time_info": "11时56分"
         },
         {
+          "title": "美媒爆料：特朗普对委动手前曾向油企高管暗示",
+          "url": "https://wallstreetcn.com/livenews/3031665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            21,
+            14,
+            17,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 20时02分]"
+        },
+        {
           "title": "特朗普干预主义引发去美元化担忧 杰富瑞看好黄金避险属性",
           "url": "https://flash.jin10.com/detail/20260106174715588800",
           "source": "金十数据",
@@ -263,6 +290,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
+          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
           "url": "https://www.cls.cn/detail/2248057",
           "source": "财联社热门",
@@ -272,20 +310,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 02时02分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            21,
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 19时02分]"
         },
         {
           "title": "墨西哥总统回应特朗普：合作可以，干预不行",
@@ -337,6 +361,19 @@
           "time_info": "[04时02分 ~ 05时01分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时02分]"
+        },
+        {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
           "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
           "source": "凤凰网",
@@ -372,18 +409,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时01分]"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -628,7 +653,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -768,7 +793,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -779,8 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时01分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[07时01分 ~ 20时02分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -852,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "伯恩斯坦：将波音(BA.N)列为美股国防板块首选股。",
+          "url": "https://flash.jin10.com/detail/20260106193052150800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -945,7 +981,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -959,8 +995,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 20时02分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1084,9 +1120,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "汇率崩溃诱发伊朗抗议潮 领导层撕裂应对僵局",
+          "url": "https://flash.jin10.com/detail/20260106191311773800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
@@ -1106,17 +1153,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
-          "url": "https://flash.jin10.com/detail/20260106150838647800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
           "url": "https://www.cls.cn/detail/2248953",
           "source": "财联社热门",
@@ -1128,8 +1164,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 20时02分]"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
+          "url": "https://flash.jin10.com/detail/20260106150838647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
@@ -1190,11 +1237,12 @@
             8,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时51分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时51分 ~ 20时02分]"
         },
         {
           "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
@@ -1256,7 +1304,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1308,7 +1356,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周一（1月5日）纽约尾盘，ICE美元指数跌0.17%，刷新日低至98.259点，日内稍早一度持续走高，北京时间21:42刷新日高至98.861点，之后快速回落。 彭博美元指数跌0.13%，报1202.93点，日内交投区间为1209.04-1202.58点。",
@@ -1345,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时02分]"
+        },
+        {
+          "title": "地缘避险情绪对冲经济疲软忧虑 美元指数震荡回升",
+          "url": "https://flash.jin10.com/detail/20260106193112753800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
