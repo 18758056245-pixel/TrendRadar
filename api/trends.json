@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T21:32:34.457513+08:00",
-  "total_titles_processed": 2029,
+  "generated_at": "2026-01-07T22:13:28.093771+08:00",
+  "total_titles_processed": 2113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 105,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -44,19 +44,6 @@
           "time_info": "[00时02分 ~ 08时45分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时44分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -67,6 +54,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时01分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[08时44分 ~ 22时13分]"
         },
         {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
@@ -103,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时51分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[10时51分 ~ 22时13分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -196,6 +197,29 @@
           "time_info": "[08时44分 ~ 14时02分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时13分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普称若输中期选举或被弹劾",
           "url": "https://www.toutiao.com/trending/7591446002708774921/",
           "source": "今日头条",
@@ -205,17 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 08时45分]"
-        },
-        {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时32分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -262,18 +275,6 @@
           "time_info": "17时17分"
         },
         {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -287,6 +288,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 11时57分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 22时13分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -337,18 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 21时32分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -488,6 +489,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时02分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时13分]"
         },
         {
           "title": "特朗普扑向委石油遭美巨头打脸",
@@ -930,6 +943,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "白宫官员称，特朗普将与美国石油公司高管于周五会面。",
+          "url": "https://flash.jin10.com/detail/20260107213851943800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
           "url": "https://wallstreetcn.com/livenews/3031957",
           "source": "华尔街见闻-快讯",
@@ -939,17 +963,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：（对众议院共和党人说）我真希望你们能给我解释一下，公众到底是怎么想的。因为我们的政策是正确的。",
@@ -1128,6 +1141,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "据CNBC：美国将从委内瑞拉获得超过5000万桶石油。（此前特朗普表示，委内瑞拉将向美国移交3000至5000万桶石油）",
+          "url": "https://flash.jin10.com/detail/20260107213246753800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美国总统特朗普：我们的总统任期很成功。",
           "url": "https://flash.jin10.com/detail/20260106231305356800",
           "source": "金十数据",
@@ -1186,7 +1210,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -1335,6 +1359,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3032511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "Strategy美股盘后涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3031899",
           "source": "华尔街见闻-快讯",
@@ -1355,6 +1390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107214121257800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "半导体ETF在CES开幕日收涨超2.6%，领跑美股行业ETF，标普能源板块跌2.8%",
@@ -1455,8 +1501,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时02分 ~ 21时32分]"
+          "appearance_count": 29,
+          "time_info": "[00时02分 ~ 22时13分]"
         },
         {
           "title": "伊朗央行主管外汇的副行长辞职。（伊朗媒体Fars News）",
@@ -1736,7 +1782,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -1765,7 +1811,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
