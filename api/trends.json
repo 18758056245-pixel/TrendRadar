@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T15:19:19.702123+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2026-01-27T16:02:28.437008+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时48分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时48分 ~ 16时02分]"
         },
         {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时48分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时48分 ~ 16时02分]"
         },
         {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时02分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时02分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -112,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 16时02分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -293,6 +293,18 @@
           "time_info": "[03时16分 ~ 04时02分]"
         },
         {
+          "title": "韩国青瓦台：就美国总统特朗普提及的关税一事，正通过多种渠道进行核实。",
+          "url": "https://flash.jin10.com/detail/20260127150805425800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时02分]"
+        },
+        {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -350,6 +362,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时02分]"
+        },
+        {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时02分]"
         },
         {
           "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
@@ -424,6 +448,18 @@
           "time_info": "[03时16分 ~ 04时02分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时02分]"
+        },
+        {
           "title": "被批在阿富汗“躲后方” 德防长要求特朗普道歉",
           "url": "https://flash.jin10.com/detail/20260127104322407800",
           "source": "金十数据",
@@ -444,17 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "韩国青瓦台：就美国总统特朗普提及的关税一事，正通过多种渠道进行核实。",
-          "url": "https://flash.jin10.com/detail/20260127150805425800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "特朗普宣布对韩国加征关税",
@@ -532,17 +557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        },
-        {
-          "title": "韩国人还在睡梦中特朗普突然下手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "美国官员：美国总统特朗普完全赞同以色列总理内塔尼亚胡的声明，即在哈马斯实现非军事化和解除武装之前，加沙的重建不会开始。",
@@ -710,17 +724,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "民调：特朗普严打移民 支持率降至低位",
           "url": "https://flash.jin10.com/detail/20260127050316323800",
           "source": "金十数据",
@@ -813,8 +816,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时48分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时48分 ~ 16时02分]"
         },
         {
           "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
@@ -1015,11 +1018,12 @@
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 16时02分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -1188,7 +1192,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1262,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 12时06分]"
+        },
+        {
+          "title": "银行家们表示，土耳其央行上周买入了近20亿美元，其中约65亿美元的增幅源于金价变动。",
+          "url": "https://flash.jin10.com/detail/20260127151448862800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "金十图示：2026年01月27日（周二）上海金早盘价为1138.22元/克，较国际金价(1132.46元/克)，高5.76元/克",
@@ -1393,11 +1408,12 @@
           "ranks": [
             8,
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 16时02分]"
         },
         {
           "title": "报道称，OpenAI副总裁奈特即将离职。",
@@ -1516,9 +1532,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时02分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
