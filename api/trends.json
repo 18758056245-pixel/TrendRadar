@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T10:02:50.242679+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-07-01T14:25:11.290501+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -27,8 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 14时25分]"
         },
         {
           "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
@@ -128,17 +140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        },
-        {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
@@ -262,6 +263,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "白宫称特朗普加密币获利无利益冲突",
+          "url": "https://wallstreetcn.com/livenews/3127169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
           "url": "https://flash.jin10.com/detail/20260701044849105800",
           "source": "金十数据",
@@ -298,8 +310,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时25分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时25分]"
+        },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
@@ -311,30 +347,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 10时02分]"
-        },
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时02分]"
         },
         {
           "title": "华尔街六年来最强季度后：美股上涨进入“高难度阶段”",
@@ -419,6 +431,17 @@
           "time_info": "[04时49分 ~ 06时06分]"
         },
         {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
           "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
           "url": "https://wallstreetcn.com/livenews/3126991",
           "source": "华尔街见闻-快讯",
@@ -436,7 +459,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -521,7 +544,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -555,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：一位高级政府官员表示，美国谈判代表贾里德·库什纳和威特科夫与卡塔尔地区领导人进行了积极的讨论，与伊朗的技术谈判也在推进中。",
+          "url": "https://flash.jin10.com/detail/20260701141541982800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
@@ -708,8 +742,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时25分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
