@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T15:35:25.486359+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-07-29T18:23:02.446727+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -83,6 +83,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "据以色列媒体：一名曾在机密部队服役的以色列人被指控为伊朗从事间谍活动，并试图提供信息。",
+          "url": "https://flash.jin10.com/detail/20260729181643077800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美参议院通过制裁俄罗斯和伊朗法案程序性投票",
           "url": "https://wallstreetcn.com/livenews/3141283",
           "source": "华尔街见闻-快讯",
@@ -125,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 18时23分]"
         },
         {
           "title": "非正式停火告吹 伊朗今晨向美军基地发射导弹 原油大涨4%",
@@ -173,15 +195,16 @@
           "time_info": "[01时16分 ~ 03时01分]"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 18时23分]"
         },
         {
           "title": "美以领导人会晤，聚焦伊朗核问题",
@@ -231,18 +254,6 @@
           "time_info": "[03时01分 ~ 04时15分]"
         },
         {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 15时35分]"
-        },
-        {
           "title": "伊朗外长：与欧盟外交与安全政策高级代表通电话。双方就地区及国际局势的最新发展，以及如何缓解紧张局势、维护地区稳定与安全等议题进行了探讨。",
           "url": "https://flash.jin10.com/detail/20260729040854366800",
           "source": "金十数据",
@@ -285,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "伊朗要求霍尔木兹海峡通行船只须经伊朗水域",
+          "url": "https://wallstreetcn.com/livenews/3141630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "乌克兰外交部长：强调了避免局势升级以及停止伊朗对俄罗斯支持的必要性。",
@@ -562,6 +584,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "据沙特媒体哈达斯（Alhadath）援引以色列军事消息人士称，美国中央司令部对以色列防长卡茨感到不满，因为卡茨此前透露美国战斗机从以色列机场起飞，以执行轰炸伊朗的作战行动。以色列参谋长因卡茨的言论向中央司令部指挥官道歉。",
+          "url": "https://flash.jin10.com/detail/20260729180537899800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "伊朗副外长：伊朗将考虑采取“任何行动”以维持对霍尔木兹海峡的控制",
           "url": "https://flash.jin10.com/detail/20260729005746292800",
           "source": "金十数据",
@@ -639,6 +672,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "市场消息：消息人士称，部分美国驻中东部队人员可能会被没收手机，美军指挥官警告部队不得分享伊朗打击行动相关视频。",
+          "url": "https://flash.jin10.com/detail/20260729180117688800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "伊朗外交部长：伊朗也不寻求局势升级，但任何针对我方公民或利益的攻击都是不可接受的，必须对损失进行赔偿。",
           "url": "https://flash.jin10.com/detail/20260729025827012800",
           "source": "金十数据",
@@ -678,7 +722,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -697,7 +741,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -731,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "特朗普：美墨加协定续不续签“无所谓”",
+          "url": "https://wallstreetcn.com/livenews/3141634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -793,6 +848,18 @@
           "time_info": "[01时16分 ~ 03时01分]"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 18时23分]"
+        },
+        {
           "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
           "url": "https://news.ifeng.com/c/8v99XqcoCB0",
           "source": "凤凰网",
@@ -803,6 +870,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 12时54分]"
+        },
+        {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们的目标与特朗普一致，就是不让伊朗获得核武器。",
@@ -838,15 +927,15 @@
           "time_info": "04时15分"
         },
         {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普周三日程",
+          "url": "https://flash.jin10.com/detail/20260729180656731800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时35分"
+          "time_info": "18时23分"
         },
         {
           "title": "美国总统特朗普：以色列总理比比·内塔尼亚胡和我以及一些代表进行了非常好的会议！显然，我们讨论了许多重要议题。",
@@ -871,6 +960,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-29）",
+          "url": "https://flash.jin10.com/detail/20260729180645765800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美国总统特朗普：很荣幸与乌克兰总统泽连斯基会面。我们讨论了很多事情。会议进行得非常顺利！",
           "url": "https://flash.jin10.com/detail/20260729085553697800",
           "source": "金十数据",
@@ -888,7 +988,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -965,7 +1065,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -995,7 +1095,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -1008,8 +1108,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 15时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时15分 ~ 18时23分]"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -1033,22 +1133,12 @@
             11,
             12,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 15时35分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 15时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时15分 ~ 18时23分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -1060,6 +1150,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 04时15分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时46分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -1123,6 +1225,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时01分 ~ 06时47分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
@@ -1491,7 +1604,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         }
