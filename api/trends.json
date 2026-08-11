@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T22:10:25.748589+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2026-08-11T23:46:06.293584+08:00",
+  "total_titles_processed": 1987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时57分 ~ 22时10分]"
+          "appearance_count": 12,
+          "time_info": "[10时57分 ~ 23时46分]"
         },
         {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
@@ -128,6 +128,18 @@
           "time_info": "[00时39分 ~ 05时29分]"
         },
         {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时10分 ~ 23时46分]"
+        },
+        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -139,17 +151,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时41分 ~ 13时45分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -184,7 +185,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -407,7 +408,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -429,7 +430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -473,7 +474,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -506,7 +507,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -572,7 +573,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -594,7 +595,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -627,9 +628,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
+        },
+        {
+          "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
+          "url": "https://flash.jin10.com/detail/20260811224133543800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
@@ -767,7 +779,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -799,11 +811,12 @@
           "ranks": [
             5,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时41分 ~ 22时10分]"
+          "appearance_count": 13,
+          "time_info": "[08时41分 ~ 23时46分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -827,6 +840,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 03时46分]"
+        },
+        {
+          "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
+          "url": "https://news.ifeng.com/c/8vVLJAifXPo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
         },
         {
           "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
@@ -1021,6 +1045,19 @@
           "time_info": "[04时28分 ~ 05时29分]"
         },
         {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 23时46分]"
+        },
+        {
           "title": "伊朗总统之子反思伊朗国际形象",
           "url": "https://www.toutiao.com/trending/7671499615899877402/",
           "source": "今日头条",
@@ -1105,18 +1142,6 @@
           "time_info": "[10时57分 ~ 12时10分]"
         },
         {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 22时10分]"
-        },
-        {
           "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
           "url": "https://wallstreetcn.com/livenews/3147616",
           "source": "华尔街见闻-快讯",
@@ -1179,7 +1204,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1215,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "分析人士：伊朗在霍尔木兹海峡的谈判筹码正在“贬值”",
+          "url": "https://flash.jin10.com/detail/20260811230011449800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "伊朗最高领袖对武装部队进行新任命",
@@ -1278,7 +1314,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1355,7 +1391,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         }
@@ -1363,7 +1399,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1373,8 +1409,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时41分 ~ 22时10分]"
+          "appearance_count": 13,
+          "time_info": "[08时41分 ~ 23时46分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -1425,6 +1461,18 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时10分 ~ 23时46分]"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
           "url": "https://wallstreetcn.com/livenews/3147685",
           "source": "华尔街见闻-快讯",
@@ -1462,6 +1510,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时24分]"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时10分 ~ 23时46分]"
         },
         {
           "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
@@ -1511,15 +1571,15 @@
           "time_info": "[05时29分 ~ 06时24分]"
         },
         {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
+          "title": "散户观望，机构掉队！惨淡情绪下，美股即将出现新机会？",
+          "url": "https://flash.jin10.com/detail/20260811230408718800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "23时46分"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
@@ -1539,18 +1599,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1561,7 +1610,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1616,7 +1665,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1627,7 +1676,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1638,7 +1687,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         }
